@@ -51,11 +51,11 @@ University.
     <!-- <p align="center"> -->
     <!-- Original size: &&card_height:195px&&card_width:467px
      &&card_height:137.93px&&card_width:330.32px  
-     height="137.93px"
+     height="171.82px" width="411.5px"
     330.32px 137.93px 
     -->
-    <img width="49.5%"  src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /> <img width="49.5%"
+    <img width="49.5%" height="171.82px" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+        alt="rushhiii's Stats" /> <img width="49.5%" height="171.82px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
