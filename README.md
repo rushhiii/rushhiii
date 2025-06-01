@@ -46,7 +46,7 @@ University.
 
 <h2> My GitHub Stats </h2>
 
-<p width="100%" align="center" style="display: flex;gap:1px;justify-content: center;">
+<p width="100%" align="center" style="display: flex;gap:10px;justify-content: center;">
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p> -->
 <!-- Original size: h:195px, &&card_width:467px  width="467px" height="195px" -->
@@ -55,7 +55,7 @@ University.
         alt="rushhiii's Stats" /><img width="50%" height="6%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=truelayout=compact&langs_count=8&card_width=320"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320"
         alt="rushhiii's Top Languages" />
 </p>
 
