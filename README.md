@@ -49,11 +49,11 @@ University.
 <p width="100%" align="center" style="display: flex;justify-content: center;">
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p> -->
-<!-- Original size: h:195px, &&card_width:467px  width="467px" height="195px" -->
+<!-- Original size: &&card_height:195px&&card_width:467px  width="467px" height="195px" -->
     <img
-        src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_width:50%"
-        alt="rushhiii's Stats" /> <img width="50%" height="195px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_width:50%"
+        src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_height:195px&&card_width:467px"
+        alt="rushhiii's Stats" /> <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_height:195px&&card_width:467px"
         alt="rushhiii's Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
         alt="rushhiii's Top Languages" />
