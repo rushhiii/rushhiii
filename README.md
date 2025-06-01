@@ -46,7 +46,7 @@ University.
 
 <h2> My GitHub Stats </h2>
 
-<p width="100%" align="center" style="display: flex;justify-content: center;flex-wrap: wrap;">
+<p width="100%" align="center" style="display: flex;justify-content: center;">
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p align="center"> -->
 <!-- Original size: &&card_height:195px&&card_width:467px  width="467px" height="195px" -->
