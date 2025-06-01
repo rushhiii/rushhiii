@@ -77,7 +77,7 @@ width="250"/>
 <!-- <p style="display: flex;justify-content: space-around; vertical-align:text-top;flex-wrap: wrap;"> -->
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p align="center"> -->
-<p style="display: flex; align-items: flex-start; flex-wrap: wrap;gap:5px;">
+<p style="display: flex; justify-content:center; align-items: flex-start; flex-wrap: wrap;gap:5px;">
     <!-- Original size: &&card_height:195px&&card_width:467px
      &&card_height:171.82&&card_width:411.5  
      height="171.82px" width="411.5px"
@@ -133,6 +133,11 @@ width="250"/>
 
 <!-- border-bottom:1px solid var(--borderColor-muted, var(--color-border-muted)); -->
 
-<p align="center" style="border-top: 2px solid #3d444db3;margin-top:100px;">
-    💬 Let’s collaborate and build something amazing together!
-</p>
+<!-- <p align="center" style="border-top: 2px solid #3d444db3;margin-top:100px;"> -->
+
+<br/>
+
+##
+
+💬 Let’s collaborate and build something amazing together!
+<!-- </p> -->
