@@ -52,10 +52,10 @@ University.
 <!-- Original size: h:195px, &&card_width:467px -->
     <img width="49.5%" height="195px"
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /> <img width="49.5%" height="195px"
+        alt="rushhiii's Stats" /><img width="49.5%" height="195px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
         alt="rushhiii's Top Languages" />
 </p>
 
