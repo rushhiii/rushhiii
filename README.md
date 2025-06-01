@@ -50,13 +50,13 @@ University.
     <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
     <!-- <p align="center"> -->
     <!-- Original size: &&card_height:195px&&card_width:467px
-     &&card_height:137.93px&&card_width:330.32px  
+     &&card_height:171.82&&card_width:411.5  
      height="171.82px" width="411.5px"
     330.32px 137.93px 
     -->
-    <img width="49.5%" height="171.82px" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /> <img width="49.5%" height="171.82px"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_height:171.82&&card_width:411.5"
+        alt="rushhiii's Stats" /> <img width="49.5%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_height:171.82&&card_width:411.5"
         alt="rushhiii's Streak" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
         alt="rushhiii's Top Languages" /> -->
