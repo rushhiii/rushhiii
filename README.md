@@ -46,13 +46,13 @@ University.
 
 <h2> My GitHub Stats </h2>
 
-<p width="100%" align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<p width="100%" align="center" style="display: flex; justify-content: center;">
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p> -->
 <!-- Original size: h:195px, &&card_width:467px -->
-    <img width="49.5%" height="195px"
+    <img width="467px" height="195px"
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /><img width="49.5%" height="195px"
+        alt="rushhiii's Stats" /> <img width="467px" height="195px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
