@@ -3,18 +3,20 @@
 <!-- <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
 width="250"/>
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 
-<!-- - 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
+- 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
 - ⚡ I love working on automation and building new projects.
 - 🛠️ Skilled in working with JavaScript, Python, and Google Sheets API.
 - 💻 Exploring data processing, front-end development, and backend workflows.
-- 📈 Always open to learning and improving! -->
+- 📈 Always open to learning and improving!
 
 <!-- 
 ![rushhiii's Stats](https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true) -->
 
 
-<p style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+<!-- <p style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
   <ul>
     <li>🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan</li>
     <li>⚡ I love working on automation and building new projects.</li>
@@ -22,10 +24,8 @@ width="250"/>
     <li>💻 Exploring data processing, front-end development, and backend workflows.</li>
     <li>📈 Always open to learning and improving!</li>
   </ul>
+</p> -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-
-</p>
 <!-- &nbsp; -->
 
 ![](https://komarev.com/ghpvc/?username=rushhiii&color=green)
@@ -65,7 +65,8 @@ width="250"/>
 
 <!-- <p style="display: flex;justify-content: space-around; vertical-align:text-top;flex-wrap: wrap;"> -->
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
-<p align="center">
+<!-- <p align="center"> -->
+<p style="display: flex; align-items: flex-start; flex-wrap: wrap;gap:5px;">
     <!-- Original size: &&card_height:195px&&card_width:467px
      &&card_height:171.82&&card_width:411.5  
      height="171.82px" width="411.5px"
