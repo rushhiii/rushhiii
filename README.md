@@ -135,9 +135,8 @@ width="250"/>
 
 <!-- <p align="center" style="border-top: 2px solid #3d444db3;margin-top:100px;"> -->
 
-<br/>
-
 ##
-
+<p align="center">
 💬 Let’s collaborate and build something amazing together!
+</p>
 <!-- </p> -->
