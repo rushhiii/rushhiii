@@ -76,6 +76,7 @@ University.
     </a>
 </p>
 
-<hr style="height:0px;">
 
+<p align="center" style="padding-top:10px;">
 💬 Let’s **collaborate** and build something amazing together!
+</p>
