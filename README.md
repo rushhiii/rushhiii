@@ -11,6 +11,9 @@ University.
 - 💻 Exploring data processing, front-end development, and backend workflows.
 - 📈 Always open to learning and improving!
 
+<img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+        alt="rushhiii's Stats" /> 
+
 ![](https://komarev.com/ghpvc/?username=rushhiii&color=green)
 <a href="https://github.com/RishikaGhosh?tab=followers"><img
         src="https://img.shields.io/github/followers/rushhiii?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -59,13 +62,13 @@ University.
         alt="rushhiii's Stats" /> <img width="49.5%" height="171.82px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_height:171.82px&&card_width:411.5px"
         alt="rushhiii's Streak" /> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /> <img
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+        alt="rushhiii's Stats" /> --> <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <!-- Top Languages used -->
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
-        alt="rushhiii's Top Languages" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        alt="rushhiii's Top Languages" /> 
 </p>
 
 <!-- to modify the stats cards -->
