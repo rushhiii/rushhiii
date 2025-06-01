@@ -46,9 +46,9 @@ University.
 
 <h2> My GitHub Stats </h2>
 
-<p width="100%" align="center" style="display: flex;justify-content: center;">
+<!-- <p width="100%" align="center" style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
-<!-- <p> -->
+<p>
 <!-- Original size: &&card_height:195px&&card_width:467px  width="467px" height="195px" -->
     <img
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_height:195px&&card_width:49.5%"
