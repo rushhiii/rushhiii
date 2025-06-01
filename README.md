@@ -44,39 +44,57 @@ University.
         alt="Node.js" />
 </p> -->
 
-<h2> My GitHub Stats 🧑‍💻 </h2>
+<h2> My GitHub Stats </h2>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /> <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
+<!-- <p width="100%" align="center" style="display: flex; justify-content: center; flex-wrap: wrap;"> -->
+<p style="display: flex;justify-content: center;flex-wrap: wrap;">
+<!-- <p> -->
+    <img height="195px"
+        src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_width=467px"
+        alt="rushhiii's Stats" />
+        <img height="195px"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_width=467px"
         alt="rushhiii's Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&&card_width=467px"
         alt="rushhiii's Top Languages" />
 </p>
+
+<!-- to modify the stats cards -->
+<!-- <a href="https://github.com/rushhiii/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rushhiii" />
+</a>
+<a href="https://github.com/rushhiii/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushhiii&layout=compact&langs_count=8&card_width=320" />
+</a> -->
 
 <h2> Connect with Me </h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/rushhiii" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
+    <a align="center" href="https://github.com/rushhiii" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
             alt="GitHub" />
     </a>
-    <a href="mailto:rushiofficial1205@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+    <a align="center" href="mailto:rushiofficial1205@gmail.com" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
             alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    <a align="center" href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/YourInstagram" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+    <a align="center" href="https://www.instagram.com/YourInstagram" target="_blank">
+        <img align="center"
+            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram" />
-    </a>
+    </a><br>
+
 </p>
 
+<!-- border-bottom:1px solid var(--borderColor-muted, var(--color-border-muted)); -->
 
-<p align="center" style="padding-top:10px;">
-💬 Let’s **collaborate** and build something amazing together!
+<p align="center" style="border-top: 2px solid #3d444db3;margin-top:100px;">
+    💬 Let’s collaborate and build something amazing together!
 </p>
