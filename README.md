@@ -50,10 +50,9 @@ University.
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p> -->
 <!-- Original size: h:195px, &&card_width:467px -->
-    <img width="50%"
+    <img width="49.5%"
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" />
-        <img width="50%"
+        alt="rushhiii's Stats" /> <img width="49.5%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
