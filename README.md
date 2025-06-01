@@ -54,8 +54,7 @@ University.
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_width:49.5%"
         alt="rushhiii's Stats" /> <img 
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_width:49.5%"
-        alt="rushhiii's Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        alt="rushhiii's Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
         alt="rushhiii's Top Languages" />
 </p>
 
