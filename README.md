@@ -29,7 +29,7 @@ University.
         alt="Python" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scriptable&color=000000&logo=Scriptable&logoColor=FFFFFF&label="
         alt="Scriptable" />
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets+API&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label="
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets+API&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label="
         alt="Google Sheets API" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
         alt="Node.js" />
@@ -46,21 +46,14 @@ University.
 
 <h2> My GitHub Stats 🧑‍💻 </h2>
 
-<p aligh="center">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
         alt="rushhiii's Stats" /> <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
         alt="rushhiii's Top Languages" />
 </p>
-
-  
-
-
-
 
 <h2> Connect with Me </h2>
 
@@ -83,6 +76,6 @@ University.
     </a>
 </p>
 
-<hr style="height:1px;">
+<hr style="height:0px;">
 
 💬 Let’s **collaborate** and build something amazing together!
