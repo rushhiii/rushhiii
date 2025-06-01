@@ -137,6 +137,6 @@ width="250"/>
 
 ##
 <p align="center">
-💬 Let’s collaborate and build something amazing together!
+~ Let’s collaborate and build something amazing together! ~
 </p>
 <!-- </p> -->
