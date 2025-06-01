@@ -34,11 +34,14 @@ width="250"/>
   </ul>
 </p> -->
 
-<!-- &nbsp; -->
-
+&nbsp;
+<!-- <br /> -->
+<!-- <p align="right"> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=rushhiii&color=green"/> -->
 ![](https://komarev.com/ghpvc/?username=rushhiii&color=green)
 <a href="https://github.com/RishikaGhosh?tab=followers"><img
         src="https://img.shields.io/github/followers/rushhiii?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- </p> -->
 
 <h2> Languages, Tools and Technologies </h2>
 
