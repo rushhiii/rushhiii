@@ -1,12 +1,88 @@
-- 👋 Hi, I’m @rushhiii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- <h1 align="center"> Hi, welcome! </h1> -->
+<h1>👋 I'm Rushi Patel </h1>
+<!-- <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
+width="250"/>
+-->
 
-<!---
-rushhiii/rushhiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
+University.
+- ⚡ I love working on automation and building new projects.
+- 🛠️ Skilled in working with **JavaScript, Python, and Google Sheets API**.
+- 💻 Exploring data processing, front-end development, and backend workflows.
+- 📈 Always open to learning and improving!
+
+![](https://komarev.com/ghpvc/?username=rushhiii&color=green)
+<a href="https://github.com/RishikaGhosh?tab=followers"><img
+        src="https://img.shields.io/github/followers/rushhiii?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<h2> Languages, Tools and Technologies </h2>
+
+<!-- <h3> Front-end and Automation </h3> -->
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="
+        alt="HTML5" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="
+        alt="CSS3" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label="
+        alt="JavaScript" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="
+        alt="Python" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scriptable&color=000000&logo=Scriptable&logoColor=FFFFFF&label="
+        alt="Scriptable" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets+API&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label="
+        alt="Google Sheets API" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
+        alt="Node.js" />
+</p>
+
+<!-- <h3> APIs and Data </h3>
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets+API&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label="
+        alt="Google Sheets API" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
+        alt="Node.js" />
+</p> -->
+
+<h2> My GitHub Stats 🧑‍💻 </h2>
+
+<p aligh="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+        alt="rushhiii's Stats" /> <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
+        alt="rushhiii's Streak" />
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
+        alt="rushhiii's Top Languages" />
+</p>
+
+  
+
+
+
+
+<h2> Connect with Me </h2>
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/rushhiii" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
+            alt="GitHub" />
+    </a>
+    <a href="mailto:rushiofficial1205@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+            alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/YourInstagram" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram" />
+    </a>
+</p>
+
+<hr style="height:1px;">
+
+💬 Let’s **collaborate** and build something amazing together!
