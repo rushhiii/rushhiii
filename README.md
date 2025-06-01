@@ -54,9 +54,9 @@ University.
      width="467px" height="195px" 
     330.32px 137.93px 
     -->
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true&&card_height:137.93&&card_width:330.32"
-        alt="rushhiii's Stats" /> <img width="49.5%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true&&card_height:137.93&&card_width:330.32"
+    <img width="49.5%" height="137.93px" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
+        alt="rushhiii's Stats" /> <img width="49.5%" height="137.93px"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"
         alt="rushhiii's Top Languages" /> -->
