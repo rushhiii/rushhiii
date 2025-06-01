@@ -50,9 +50,9 @@ University.
 <!-- <p style="display: flex;justify-content: center;flex-wrap: wrap;"> -->
 <!-- <p> -->
 <!-- Original size: h:195px, &&card_width:467px  width="467px" height="195px" -->
-    <img width="50%" height="6%"
+    <img width="50%" height="195px"
         src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
-        alt="rushhiii's Stats" /><img width="50%" height="6%"
+        alt="rushhiii's Stats" /><img width="50%" height="195px"
         src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
         alt="rushhiii's Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=320"
