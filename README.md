@@ -18,7 +18,7 @@ width="250"/>
 
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" align="right">
+ <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" align="right" width="467">
  
 - 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
 - ⚡ I love working on automation and building new projects.
