@@ -4,9 +4,9 @@
 width="250"/>
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400"/>
+<img align="right" style="display:block;" src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400"/>
 <br/>
-<ul align="left" style="margin-top:10px;">
+<ul align="left" style="display:block;">
   <li>🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan</li>
   <li>⚡ I love working on automation and building new projects.</li>
   <li>🛠️ Skilled in working with JavaScript, Python, and Google Sheets API.</li>
