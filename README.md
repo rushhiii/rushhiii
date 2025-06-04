@@ -17,20 +17,7 @@ width="250"/>
 
 
 
-
-<ul align="left">
-  <li>🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan</li>
-  <li>⚡ I love working on automation and building new projects.</li>
-  <li>🛠️ Skilled in working with JavaScript, Python, and Google Sheets API.</li>
-  <li>💻 Exploring data processing, front-end development, and backend workflows.</li>
-  <li>📈 Always open to learning and improving!</li>
-</ul>
-<img align="right" width="467"
-  src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-
-
-
- <!--
+ 
  <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" align="right">
  
 - 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
@@ -38,7 +25,7 @@ width="250"/>
 - 🛠️ Skilled in working with JavaScript, Python, and Google Sheets API.
 - 💻 Exploring data processing, front-end development, and backend workflows.
 - 📈 Always open to learning and improving!
--->
+
 <!-- 
 ![rushhiii's Stats](https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true) -->
 
