@@ -15,6 +15,7 @@ width="250"/>
 </ul>
 -->
  <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" align="right">
+ 
 <ul align="left">
   <li>🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan</li>
   <li>⚡ I love working on automation and building new projects.</li>
