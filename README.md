@@ -4,7 +4,7 @@
 width="250"/>
 -->
 
-<div style="display: flex; justify-content:space-between;flex-wrap:wrap;">
+<div style="display: block; justify-content:space-between;flex-wrap:wrap;">
   <ul>
     <li>🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan</li>
     <li>⚡ I love working on automation and building new projects.</li>
@@ -13,8 +13,8 @@ width="250"/>
     <li>📈 Always open to learning and improving!</li>
   </ul>
     <picture>
-      <source media="(max-width: 700px)" srcset="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" width="600"/>
+      <source media="(max-width: 600px)" srcset="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" width="500"/>
     </picture>
 </div>
 
