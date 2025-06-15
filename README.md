@@ -18,8 +18,7 @@ width="250"/>
 
 
  
- <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true" align="right" width="467">
- <!-- ![rushhiii's Stats](https://github-readme-stats.vercel.app/api?username=rushhiii&theme=highcontrast&show_icons=true&hide_border=true&count_private=true) -->
+ <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=gotham&show_icons=true&hide_border=true&count_private=true" align="right" width="467">
 
  
 - 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
@@ -106,11 +105,11 @@ width="250"/>
         alt="rushhiii's Streak" /> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=dark&show_icons=true&hide_border=true&count_private=true"
         alt="rushhiii's Stats" /> --> <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=gotham&hide_border=true"
     alt="rushhiii's Streak" />
   <!-- Top Languages used -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=dark&show_icons=true&hide_border=true&layout=compact"
+    src="![rushhiii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=gotham&show_icons=true&hide_border=true&layout=compact)"
     alt="rushhiii's Top Languages" />
 </p>
 
