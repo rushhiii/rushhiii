@@ -109,7 +109,7 @@ width="250"/>
     alt="rushhiii's Streak" />
   <!-- Top Languages used -->
   <img
-    src="![rushhiii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=gotham&show_icons=true&hide_border=true&layout=compact)"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&theme=gotham&show_icons=true&hide_border=true&layout=compact"
     alt="rushhiii's Top Languages" />
 </p>
 
