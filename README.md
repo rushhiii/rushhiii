@@ -55,7 +55,7 @@ width="250"/>
 
 <!-- <h3> Front-end and Automation </h3> -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
- <!-- <img
+  <img
     src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="
     alt="HTML5" />
   <img
@@ -75,25 +75,25 @@ width="250"/>
     alt="Google Sheets API" />
   <img
     src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
-    alt="Node.js" /> -->
-
-  <!-- Core Web Skills -->
+    alt="Node.js" />
+<!--
+  <!-- Core Web Skills 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-
-<!-- Frameworks & Libraries -->
+-->
+<!-- Frameworks & Libraries 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-
-<!-- Languages & Tools -->
+-->
+<!-- Languages & Tools 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-
-<!-- Custom Tools (no official badge, use alternative or icon-based placeholder) -->
+-->
+<!-- Custom Tools (no official badge, use alternative or icon-based placeholder) 
 <img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/434x0w.webp" alt="Scriptable" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets API" height="50" />
-
+-->
 </p>
 
 <!-- <h3> APIs and Data </h3>
