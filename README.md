@@ -96,6 +96,8 @@ width="250"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/b4/1c/f6b41cd9-7b3f-f5a1-bb48-bc0884a6d528/AppIcon-0-1x_U007emarketing-0-6-0-85-220.png/1200x630bb.png" height="40" alt="Scriptable" style="margin:10px;"/>
+
 
 
 
