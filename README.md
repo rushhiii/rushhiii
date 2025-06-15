@@ -91,8 +91,8 @@ width="250"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 
 <!-- Custom Tools (no official badge, use alternative or icon-based placeholder) -->
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scriptable_App_Icon.png" alt="Scriptable" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Google_Sheets_2020_Logo.svg" alt="Google Sheets API" height="50" />
+<img style="margin: 10px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a2/fa/1aa2fa5f-2440-f3d1-7785-2e6f1b82984a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/434x0w.webp" alt="Scriptable" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="Google Sheets API" height="50" />
 
 </p>
 
