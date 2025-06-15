@@ -15,16 +15,12 @@ width="250"/>
   <li>📈 Always open to learning and improving!</li>
 </ul> -->
 
-
-
- 
  <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&theme=gotham&show_icons=true&hide_border=true&count_private=true" align="right" width="467">
 
- 
-- 🎓 I am a 2nd year Computer Science Student at Toronto Metropolitan
-- ⚡ I love working on automation and building new projects.
+- 🎓 2nd Year Computer Science Student at [Toronto Metropolitan University](https://www.torontomu.ca/)
+- ⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.
 - 🛠️ Skilled in working with JavaScript, Python, and Google Sheets API.
-- 💻 Exploring data processing, front-end development, and backend workflows.
+- 🌱 Currently exploring: C, C++, and UNIX
 - 📈 Always open to learning and improving!
 
 <!-- 
@@ -185,7 +181,7 @@ width="250"/>
       src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail" />
   </a>
-  <a align="center" href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a align="center" href="https://linkedin.com/in/" target="_blank">
     <img align="center"
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
