@@ -55,7 +55,7 @@ width="250"/>
 
 <!-- <h3> Front-end and Automation </h3> -->
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img
+ <!-- <img
     src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="
     alt="HTML5" />
   <img
@@ -75,7 +75,25 @@ width="250"/>
     alt="Google Sheets API" />
   <img
     src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="
-    alt="Node.js" />
+    alt="Node.js" /> -->
+
+  <!-- Core Web Skills -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+
+<!-- Frameworks & Libraries -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+
+<!-- Languages & Tools -->
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+
+<!-- Custom Tools (no official badge, use alternative or icon-based placeholder) -->
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Scriptable_App_Icon.png" alt="Scriptable" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Google_Sheets_2020_Logo.svg" alt="Google Sheets API" height="50" />
+
 </p>
 
 <!-- <h3> APIs and Data </h3>
