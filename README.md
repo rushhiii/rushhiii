@@ -173,11 +173,26 @@ width="250"/>
 <!-- <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> -->
 
 <p align="center">
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushhiii)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthpatel.dev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+<a align="center" href="https://github.com/rushhiii" target="_blank">
+  <img align="center"
+    src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub" />
+</a>
+<a align="center" href="mailto:tirthpatel.dev@gmail.com" target="_blank">
+  <img align="center"
+    src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail" />
+</a>
+<a align="center" href="https://www.linkedin.com/in/your-link" target="_blank">
+  <img align="center"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn" />
+</a>
+<a align="center" href="https://instagram.com/your-handle" target="_blank">
+  <img align="center"
+    src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram" />
+</a>
 
 
   <!-- <a align="center" href="https://github.com/rushhiii" target="_blank">
