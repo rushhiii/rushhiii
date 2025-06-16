@@ -164,11 +164,13 @@
 
 
 
-<div width="100%" style="display:flex;gap:0px;flex-wrap:wrap;">
+<!-- <div width="100%" style="display:flex;gap:0px;flex-wrap:wrap;">
   <div width="80%" style="font-size:30px;font-weight: 600;">⭐ Top Contributed Repo</div>
   <div width="20%" style="font-size:30px;font-weight: 600;">✒️ Random Dev Quote</div>
-</div>
+</div> -->
 
+
+<h2>⭐ Top Contributed Repos & ✒️ Random Dev Quote</h2>
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
   <!-- <div> -->
     <!-- <p style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</p> -->
