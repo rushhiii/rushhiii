@@ -164,7 +164,7 @@
 
 
 
-<div width="100%" style="display:flex;justiy-content:center;gap:0px;">
+<div width="100%" style="display:flex;gap:0px;flex-wrap:wrap;">
   <h2 width="80%">⭐ Top Contributed Repo</h2>
   <h2 width="20%">&nbsp;&nbsp;✒️ Random Dev Quote</h2>
 </div>
@@ -172,7 +172,7 @@
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
   <!-- <div> -->
     <!-- <p style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</p> -->
-    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10" height="200" alt="Contributors"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" height="200" alt="Quotes">
+    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10" height="220" alt="Contributors"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" height="220" alt="Quotes">
 
   <!-- </div> -->
   <!-- <div> -->
