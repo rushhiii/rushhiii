@@ -1,9 +1,9 @@
-name: 🔁 Update License Year
+name: 🔄 Update License Year
 
 on:
   schedule:
-    - cron: '0 0 1 1 *'  # Runs yearly on Jan 1 at 00:00 UTC
-  workflow_dispatch:  # Optional: lets you run manually
+    - cron: '0 0 1 1 *'  # Every Jan 1
+  workflow_dispatch:
 
 jobs:
   update-year:
@@ -13,23 +13,21 @@ jobs:
       - name: 📦 Checkout Repository
         uses: actions/checkout@v3
 
-      - name: 🔍 Get current year
-        id: year
-        run: echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+      - name: 🕓 Get current year
+        id: get_year
+        run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
 
-      - name: ✏️ Update LICENSE year
+      - name: ✍️ Replace year in LICENSE
         run: |
-          year=${{ steps.year.outputs.year }}
-          sed -i "s/Copyright 20[0-9][0-9]/Copyright ${year}/g" LICENSE
+          sed -i "s/Copyright (c) [0-9]\{4\} Tirth Patel/Copyright (c) ${YEAR} Tirth Patel/" LICENSE
 
-      - name: 📤 Commit & Push Changes
+      - name: ✅ Commit changes if any
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           if [[ `git status --porcelain` ]]; then
-            git commit -am "🔄 Update LICENSE year to ${{ steps.year.outputs.year }}"
+            git commit -am "🔄 Update LICENSE year to ${YEAR}"
             git push
           else
-            echo "✅ LICENSE is already up to date."
-          fi
+            echo "✅
