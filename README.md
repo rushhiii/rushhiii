@@ -26,7 +26,7 @@
 - 🔭 Exploring: C, C++, and UNIX
 - ✨ Perfection isn’t the goal. Precision is. -->
 
-
+<div>
 <img width="200" align="right" src="assets/dev.png">
 <div align="left">
 <ul>
@@ -41,6 +41,8 @@
     <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
   </a>
 </div>
+</div>
+
 
 <h3 align="right">🤝 let's Connect:</h3>
 <div align="right">
