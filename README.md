@@ -40,6 +40,9 @@
       <li>✨ Perfection isn’t the goal. Precision is.</li>
     </ul>
   </div>
+  <a href="https://github.com/rushhiii" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
+  </a>
 </div>
 
 
