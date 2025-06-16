@@ -1,9 +1,17 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </div>
 
-<h1>👋 I'm Rushi Patel </h1>
+<!-- <div style="
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+">
+  👋 I'm Rushi Patel
+</div> -->
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
@@ -146,6 +154,9 @@
 
 
 <!-- Footer -->
+<!-- <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=footer" /> 8e44ad
+</div> -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" />
 </div>
