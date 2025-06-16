@@ -1,33 +1,36 @@
-name: 🔄 Update License Year
+name: 🔁 Update LICENSE Year
 
 on:
+  workflow_dispatch: # Run manually
   schedule:
-    - cron: '0 0 1 1 *'  # Every Jan 1
-  workflow_dispatch:
+    - cron: '0 0 1 1 *' # Yearly, Jan 1
 
 jobs:
   update-year:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📦 Checkout Repository
+      - name: 🧾 Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🕓 Get current year
-        id: get_year
+      - name: 📅 Get current year
         run: echo "YEAR=$(date +'%Y')" >> $GITHUB_ENV
 
-      - name: ✍️ Replace year in LICENSE
+      - name: 🛠 Update year in LICENSE file
         run: |
-          sed -i "s/Copyright (c) [0-9]\{4\} Tirth Patel/Copyright (c) ${YEAR} Tirth Patel/" LICENSE
+          OLD_YEAR=$(grep -oP 'Copyright \(c\) \K[0-9]{4}(?= Tirth Patel)' LICENSE)
+          if [ "$OLD_YEAR" != "$YEAR" ]; then
+            sed -i "s/Copyright (c) $OLD_YEAR Tirth Patel/Copyright (c) $YEAR Tirth Patel/" LICENSE
+          fi
 
-      - name: ✅ Commit changes if any
+      - name: ✅ Commit changes (if any)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          if [[ `git status --porcelain` ]]; then
-            git commit -am "🔄 Update LICENSE year to ${YEAR}"
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          
+          if [[ $(git status --porcelain) ]]; then
+            git commit -am "🔁 Update LICENSE year to $YEAR"
             git push
           else
-            echo "✅
+            echo "✅ No changes to commit."
+          fi
