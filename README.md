@@ -19,15 +19,28 @@
     alt="Profile Views Badge" /></a> 8A2BE2 -->
 
 <!-- <a href="https://github.com/rushhiii"><img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile+Views&color=800080&style=flat-square" alt="Profile Views" /></a> -->
-- 🎓 2nd Year Computer Science Student at Toronto Metropolitan University
+
+<!-- - 🎓 2nd Year Computer Science Student at Toronto Metropolitan University
 - 🌱 I'm currently working on developing my programming skills.
 - ⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.
 - 🔭 Exploring: C, C++, and UNIX
-- ✨ Perfection isn’t the goal. Precision is.
+- ✨ Perfection isn’t the goal. Precision is. -->
 
-<a href="https://github.com/rushhiii" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
-</a>
+
+<img width="200" align="right" src="assets/dev.png">
+<div align="left">
+<ul>
+  <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+  <li>🌱 I'm currently working on developing my programming skills.</li>
+  <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+  <li>🔭 Exploring: C, C++, and UNIX</li>
+  <li>✨ Perfection isn’t the goal. Precision is.</li>
+</ul>
+
+  <a href="https://github.com/rushhiii" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
 <h3 align="right">🤝 let's Connect:</h3>
 <div align="right">
