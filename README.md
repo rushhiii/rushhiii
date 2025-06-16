@@ -165,8 +165,8 @@
 
 
 <div width="100%" style="display:flex;gap:0px;flex-wrap:wrap;">
-  <h2 width="80%">⭐ Top Contributed Repo</h2>
-  <h2 width="20%">&nbsp;&nbsp;✒️ Random Dev Quote</h2>
+  <div width="80%" style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</div>
+  <div width="20%" style="font-size:1.5rem;font-weight: 700;">✒️ Random Dev Quote</div>
 </div>
 
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
