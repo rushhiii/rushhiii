@@ -2,8 +2,8 @@ name: 🔁 Update LICENSE Year
 
 on:
   schedule:
-    - cron: '0 0 1 1 *' # runs every January 1st at midnight
-  workflow_dispatch: # allow manual trigger too
+    - cron: '0 0 1 1 *' # every Jan 1st at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-license:
@@ -15,7 +15,7 @@ jobs:
 
       - name: 🕒 Get current year
         id: date
-        run: echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+        run: echo "year=$(date +'%Y')" >> "$GITHUB_OUTPUT"
 
       - name: 🔍 Replace year in LICENSE file
         run: |
@@ -26,7 +26,7 @@ jobs:
             echo "Updating LICENSE year from $OLD_YEAR to $NEW_YEAR"
             sed -i "s/$OLD_YEAR/$NEW_YEAR/g" LICENSE
           else
-            echo "Year is already $NEW_YEAR, no changes needed"
+            echo "✅ LICENSE already up-to-date"
           fi
 
       - name: ✅ Commit changes (if any)
