@@ -22,7 +22,7 @@
 </a>
 
 <h4 align="right">🤝 let's Connect:</h4>
-<p align="right">
+<div align="right">
     <!-- Gmail -->
     <a href="mailto:rushiofficial1205@gmail.com">
         <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" />
@@ -30,9 +30,9 @@
     <a href="https://www.linkedin.com/in/yourusername" target="_blank">
         <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" />
     </a><a href="https://www.instagram.com/yourusername" target="_blank">
-        <img width="60px" src="insta.png" alt="Instagram" />
+        <img width="60px" src="/assets/insta.png" alt="Instagram" />
     </a>
-</p>
+</div>
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
 <h2>🧩 Languages & tools I Have placed My Hands On</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap">
