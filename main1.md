@@ -1,3 +1,10 @@
+<!-- Header Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
+</div>
+
+<h1>👋 I'm Rushi Patel </h1>
+
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20views&color=800080&style=for-the-badge&logo=github&logoColor=white&Color=black" 
@@ -138,3 +145,9 @@
 
 
 
+
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=footer" />
+</div>

@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hi, welcome! </h1> -->
-<h1>👋 I'm Rushi Patel </h1>
+<h1>👋 I'm Rushi Patel </h1> 
 <!-- <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"
 width="250"/>
 -->
