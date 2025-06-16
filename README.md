@@ -20,13 +20,35 @@
 
 <!-- <a href="https://github.com/rushhiii"><img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile+Views&color=800080&style=flat-square" alt="Profile Views" /></a> -->
 
-<!-- - 🎓 2nd Year Computer Science Student at Toronto Metropolitan University
+<!-- 
+- 🎓 2nd Year Computer Science Student at Toronto Metropolitan University
 - 🌱 I'm currently working on developing my programming skills.
 - ⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.
 - 🔭 Exploring: C, C++, and UNIX
-- ✨ Perfection isn’t the goal. Precision is. -->
+- ✨ Perfection isn’t the goal. Precision is.
+-->
 
 <div>
+  <div align="left" style="display: inline-block; width: 70%;">
+    <ul>
+      <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li>🌱 I'm currently working on developing my programming skills.</li>
+      <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li>🔭 Exploring: C, C++, and UNIX</li>
+      <li>✨ Perfection isn’t the goal. Precision is.</li>
+    </ul>
+  </div>
+  <div align="right" style="display: inline-block; width: 25%;">
+    <!-- <img src="https://capsule-render.vercel.app/api?type=rect&text=%3E_&color=0f2027&height=700&fontSize=400&fontColor=00ff00&animation=fadeIn" alt="Terminal Banner"> -->
+    <img src="./assets/Code typing-bro.png" alt="Terminal Banner">
+
+  </div>
+</div>
+
+
+
+
+<!-- <div>
 <img width="200" align="right" src="assets/dev1.png">
 <div align="left">
 <ul>
@@ -41,7 +63,7 @@
     <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
   </a>
 </div>
-</div>
+</div> -->
 
 
 <h3 align="left">🤝 let's Connect:</h3>
@@ -52,7 +74,7 @@
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
     <img width="48px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img width="48px" src="/assets/insta.png" alt="Instagram" /></a>
+    <img width="48px" src="./assets/insta_plain.png" alt="Instagram" /></a>
 </div>
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
 <h2>🧩 Languages & tools I Have placed My Hands On</h2>
