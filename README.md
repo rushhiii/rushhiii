@@ -44,8 +44,8 @@
 </div>
 
 
-<h3 align="right">🤝 let's Connect:</h3>
-<div align="right">
+<h3 align="left">🤝 let's Connect:</h3>
+<div align="left">
     <!-- Gmail -->
   <a href="mailto:rushiofficial1205@gmail.com">
     <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
