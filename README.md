@@ -27,7 +27,7 @@
 - ✨ Perfection isn’t the goal. Precision is. -->
 
 <div>
-<img width="200" align="right" src="assets/dev.png">
+<img width="50%" align="right" src="assets/dev1.png">
 <div align="left">
 <ul>
   <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
