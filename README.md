@@ -170,7 +170,7 @@
 </div> -->
 
 
-<h2>⭐ Top Contributed Repos & ✒️ Random Dev Quote</h2>
+<h2>⭐ Top Contributed Repos & Random Dev Quote ✒️</h2>
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
   <!-- <div> -->
     <!-- <p style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</p> -->
