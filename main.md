@@ -189,7 +189,7 @@ width="250"/>
       src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn" />
   </a>
-  <a align="center" href="https://www.instagram.com/YourInstagram" target="_blank">
+  <a align="center" href="https://www.instagram.com/the.tirth12" target="_blank">
     <img align="center"
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram" />
