@@ -176,8 +176,8 @@
 
   <!-- </div> -->
   <!-- <div> -->
-    <!-- <p style="font-size:1.5rem;font-weight: 600;">✒️ Random Dev Quote</p> -->
-    <!-- <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&bg_color=1a1a2e&quote_color=ffffff&author_color=ffd700&accent_color=00bfff&border_color=1a1a2e&border_width=0&border_radius=10" height="200" alt="Quotes"> -->
+  <!-- <p style="font-size:1.5rem;font-weight: 600;">✒️ Random Dev Quote</p> -->
+  <!-- <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&bg_color=1a1a2e&quote_color=ffffff&author_color=ffd700&accent_color=00bfff&border_color=1a1a2e&border_width=0&border_radius=10" height="200" alt="Quotes"> -->
   <!-- </div> -->
 </div>
 
