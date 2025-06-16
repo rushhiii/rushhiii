@@ -31,7 +31,7 @@ jobs:
 
       - name: ✅ Commit changes (if any)
         run: |
-          git config user.name "Tirth Patel"
+          git config user.name "rushhiii"
           git config user.email "rushiofficial1205@gmail.com"
 
           if [[ $(git status --porcelain) ]]; then
