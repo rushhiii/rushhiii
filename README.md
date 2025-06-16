@@ -48,72 +48,72 @@
 <div align="left">
     <!-- Gmail -->
   <a href="mailto:rushiofficial1205@gmail.com">
-    <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
+    <img width="48px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a>
+    <img width="48px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img width="60px" src="/assets/insta.png" alt="Instagram" /></a>
+    <img width="48px" src="/assets/insta.png" alt="Instagram" /></a>
 </div>
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
 <h2>🧩 Languages & tools I Have placed My Hands On</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap">
 
 <!-- Bootstrap -->
-<img src="https://skillicons.dev/icons?i=bootstrap" width="60px" />
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48px" />
 <!-- HTML -->
-<img src="https://skillicons.dev/icons?i=html" width="60px" />
+<img src="https://skillicons.dev/icons?i=html" width="48px" />
 <!-- CSS -->
-<img src="https://skillicons.dev/icons?i=css" width="60px" />
+<img src="https://skillicons.dev/icons?i=css" width="48px" />
 <!-- VS Code -->
-<img src="https://skillicons.dev/icons?i=vscode" width="60px" />
+<img src="https://skillicons.dev/icons?i=vscode" width="48px" />
 <!-- GitHub -->
-<img src="https://skillicons.dev/icons?i=github" width="60px" />
+<img src="https://skillicons.dev/icons?i=github" width="48px" />
 <!-- Git -->
-<img src="https://skillicons.dev/icons?i=git" width="60px" />
+<img src="https://skillicons.dev/icons?i=git" width="48px" />
 <!-- Notion -->
-<img src="https://skillicons.dev/icons?i=notion" width="60px" />
+<img src="https://skillicons.dev/icons?i=notion" width="48px" />
 <!-- Figma -->
-<img src="https://skillicons.dev/icons?i=figma" width="60px" />
+<img src="https://skillicons.dev/icons?i=figma" width="48px" />
 <!-- PyCharm -->
-<img src="https://skillicons.dev/icons?i=pycharm" width="60px" />
+<img src="https://skillicons.dev/icons?i=pycharm" width="48px" />
 <!-- C -->
-<img src="https://skillicons.dev/icons?i=c" width="60px" />
+<img src="https://skillicons.dev/icons?i=c" width="48px" />
 <!-- Bash -->
-<img src="https://skillicons.dev/icons?i=bash" width="60px" />
+<img src="https://skillicons.dev/icons?i=bash" width="48px" />
 <!-- Tailwind -->
-<img src="https://skillicons.dev/icons?i=tailwind" width="60px" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="48px" />
 <!-- Arch Linux -->
-<img src="https://skillicons.dev/icons?i=arch" width="60px" />
+<img src="https://skillicons.dev/icons?i=arch" width="48px" />
 <!-- Ubuntu -->
-<img src="https://skillicons.dev/icons?i=ubuntu" width="60px" />
+<img src="https://skillicons.dev/icons?i=ubuntu" width="48px" />
 <!-- Python -->
-<img src="https://skillicons.dev/icons?i=python" width="60px" />
+<img src="https://skillicons.dev/icons?i=python" width="48px" />
 <!-- JavaScript -->
-<img src="https://skillicons.dev/icons?i=javascript" width="60px" />
+<img src="https://skillicons.dev/icons?i=javascript" width="48px" />
 <!-- MySQL -->
-<img src="https://skillicons.dev/icons?i=mysql" width="60px" />
+<img src="https://skillicons.dev/icons?i=mysql" width="48px" />
 <!-- .NET -->
-<img src="https://skillicons.dev/icons?i=dotnet" width="60px" />
+<img src="https://skillicons.dev/icons?i=dotnet" width="48px" />
 <!-- C++ -->
-<img src="https://skillicons.dev/icons?i=cpp" width="60px" />
+<img src="https://skillicons.dev/icons?i=cpp" width="48px" />
 <!-- C# -->
-<img src="https://skillicons.dev/icons?i=cs" width="60px" />
+<img src="https://skillicons.dev/icons?i=cs" width="48px" />
 <!-- Vim -->
-<img src="https://skillicons.dev/icons?i=vim" width="60px" />
+<img src="https://skillicons.dev/icons?i=vim" width="48px" />
 <!-- Java -->
-<img src="https://skillicons.dev/icons?i=java" width="60px" />
+<img src="https://skillicons.dev/icons?i=java" width="48px" />
 <!-- HTML tag (again, can skip if already added) -->
-<img src="https://skillicons.dev/icons?i=html" width="60px" />
+<img src="https://skillicons.dev/icons?i=html" width="48px" />
 <!-- Postman -->
-<img src="https://skillicons.dev/icons?i=postman" width="60px" />
+<img src="https://skillicons.dev/icons?i=postman" width="48px" />
 <!-- Node.js -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="60px" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="48px" />
 <!-- Neovim -->
-<img src="https://skillicons.dev/icons?i=neovim" width="60px" />
+<img src="https://skillicons.dev/icons?i=neovim" width="48px" />
 <!-- Atom -->
-<img src="https://skillicons.dev/icons?i=atom" width="60px" />
+<img src="https://skillicons.dev/icons?i=atom" width="48px" />
 <!-- PowerShell -->
-<img src="https://skillicons.dev/icons?i=powershell" width="60px" />
+<img src="https://skillicons.dev/icons?i=powershell" width="48px" />
 
 </p>
 
