@@ -97,7 +97,7 @@
 <!-- Notion -->
 <!-- <img src="https://skillicons.dev/icons?i=notion" width="48px" /> -->
 <!-- Figma -->
-<img src="https://skillicons.dev/icons?i=Figma" width="48px" />
+<img src="https://skillicons.dev/icons?i=figma" width="48px" />
 <!-- PyCharm -->
 <!-- <img src="https://skillicons.dev/icons?i=pycharm" width="48px" /> -->
 <!-- C -->
