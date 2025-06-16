@@ -1,0 +1,35 @@
+name: 🔁 Update License Year
+
+on:
+  schedule:
+    - cron: '0 0 1 1 *'  # Runs yearly on Jan 1 at 00:00 UTC
+  workflow_dispatch:  # Optional: lets you run manually
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📦 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🔍 Get current year
+        id: year
+        run: echo "year=$(date +'%Y')" >> $GITHUB_OUTPUT
+
+      - name: ✏️ Update LICENSE year
+        run: |
+          year=${{ steps.year.outputs.year }}
+          sed -i "s/Copyright 20[0-9][0-9]/Copyright ${year}/g" LICENSE
+
+      - name: 📤 Commit & Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [[ `git status --porcelain` ]]; then
+            git commit -am "🔄 Update LICENSE year to ${{ steps.year.outputs.year }}"
+            git push
+          else
+            echo "✅ LICENSE is already up to date."
+          fi
