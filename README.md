@@ -172,12 +172,12 @@
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
   <div>
     <!-- <p style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</p> -->
-    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10" height="250" alt="Contributors">
+    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10" height="200" alt="Contributors">
   </div>
 
   <div>
     <!-- <p style="font-size:1.5rem;font-weight: 600;">✒️ Random Dev Quote</p> -->
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" height="250" alt="Quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" height="200" alt="Quotes">
     <!-- <img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&bg_color=1a1a2e&quote_color=ffffff&author_color=ffd700&accent_color=00bfff&border_color=1a1a2e&border_width=0&border_radius=10" height="200" alt="Quotes"> -->
   </div>
 </div>
