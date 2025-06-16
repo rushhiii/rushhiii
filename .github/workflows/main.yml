@@ -2,34 +2,34 @@ name: 🔁 Update LICENSE Year
 
 on:
   schedule:
-    - cron: '0 0 1 1 *' # every Jan 1st at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 1 1 *' # Every Jan 1st at 00:00 UTC
+  workflow_dispatch: # Allow manual runs too
 
 jobs:
   update-license:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🧾 Checkout Repository
+      - name: 🧾 Checkout repository
         uses: actions/checkout@v3
 
       - name: 🕒 Get current year
         id: date
         run: echo "year=$(date +'%Y')" >> "$GITHUB_OUTPUT"
 
-      - name: 🔍 Replace year in LICENSE file
+      - name: ✍️ Update LICENSE year if needed
         run: |
           OLD_YEAR=$(grep -oP 'Copyright \(c\) \K\d+' LICENSE)
           NEW_YEAR=${{ steps.date.outputs.year }}
-          
+
           if [ "$OLD_YEAR" != "$NEW_YEAR" ]; then
             echo "Updating LICENSE year from $OLD_YEAR to $NEW_YEAR"
-            sed -i "s/$OLD_YEAR/$NEW_YEAR/g" LICENSE
+            sed -i "s/$OLD_YEAR/$NEW_YEAR/" LICENSE
           else
-            echo "✅ LICENSE already up-to-date"
+            echo "✅ LICENSE is already up to date."
           fi
 
-      - name: ✅ Commit changes (if any)
+      - name: ✅ Commit and Push (if changed)
         run: |
           git config user.name "rushhiii"
           git config user.email "rushiofficial1205@gmail.com"
