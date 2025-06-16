@@ -29,19 +29,21 @@
 -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&text=%3E_&color=0f2027&height=700&fontSize=400&fontColor=00ff00&animation=fadeIn" alt="Terminal Banner"> -->
 
-<img align="right" width="40%" src="./assets/Code typing-bro.png" alt="Terminal Banner">
-<div align="left">
-  <ul>
-    <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
-    <li>🌱 I'm currently working on developing my programming skills.</li>
-    <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
-    <li>🔭 Exploring: C, C++, and UNIX</li>
-    <li>✨ Perfection isn’t the goal. Precision is.</li>
-  </ul>
+<div>
+  <img align="right" width="40%" src="./assets/Code typing-bro.png" alt="Terminal Banner">
+  <div align="left">
+    <ul>
+      <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li>🌱 I'm currently working on developing my programming skills.</li>
+      <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li>🔭 Exploring: C, C++, and UNIX</li>
+      <li>✨ Perfection isn’t the goal. Precision is.</li>
+    </ul>
+  </div>
 </div>
 
 
-
+<br>
 
 <!-- <div>
 <img width="200" align="right" src="assets/dev1.png">
