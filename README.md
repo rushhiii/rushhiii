@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=800080&labelColor=800080&style=flat" alt="Profile Views" />
 </a>
 
-<h4 align="right">🤝 let's Connect:</h4>
+<h3 align="right">🤝 let's Connect:</h3>
 <div align="right">
     <!-- Gmail -->
   <a href="mailto:rushiofficial1205@gmail.com">
