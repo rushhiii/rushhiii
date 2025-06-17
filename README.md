@@ -101,7 +101,7 @@
   height="150" /> <img
   src="https://streak-stats.demolab.com?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"
   height="150" /><img
-  src=""
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff"
   height="150" />
 
 </div>
