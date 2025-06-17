@@ -31,7 +31,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&text=%3E_&color=0f2027&height=700&fontSize=400&fontColor=00ff00&animation=fadeIn" alt="Terminal Banner"> -->
 
 <div>
-    <img align="right" width="350px" src="./assets/Code typing-bro.png" alt="Terminal Banner">
+    <img align="right" width="350px" src="./assets/typing_code.png" alt="Terminal Banner">
     <div align="left" width="350px">
         <ul>
             <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
