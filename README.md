@@ -106,7 +106,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&hide_border=true&border_radius=10&cache_seconds=1800&v=1"
   height="150" /> <img
-  src="https://streak-stats.demolab.com?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400"
+  src="https://streak-stats.demolab.com?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=1800&v=1"
   height="150" /><img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=1800&v=1"
   height="150" />
@@ -153,9 +153,9 @@
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
     <!-- <div> -->
     <!-- <p style="font-size:1.5rem;font-weight: 700;">⭐ Top Contributed Repo</p> -->
-    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10"
+    <img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800&v=1"
         height="220" alt="Contributors"> <img
-        src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia" height="220" alt="Quotes">
+        src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" height="220" alt="Quotes">
 </div>
 
 <!-- frappe latte macchiato mocha -->
