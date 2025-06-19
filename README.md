@@ -4,18 +4,10 @@
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </div> -->
 
-<img src="./assets/-RUSHI-6-18-2025 (1).png">
+<img src="./assets/head_name_text_2.png">
 
-<div style="
-  font-size: 36px;
-  font-weight: 700;
-  text-align: center;
-  color: #ffffff;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-">
-  👋 I'm Rushi Patel
-</div>
 
+<!-- <h1>👋 I'm Rushi Patel</h1> -->
 <br>
 
 <h2>💫 About Me</h2>
