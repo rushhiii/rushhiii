@@ -1,13 +1,10 @@
 <!-- Header Banner -->
-<!-- <div align="center">
+<div align="center">
     <img width="100%"
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
-</div> -->
+</div>
 
-<img width="100%" src="./assets/-RUSHI-6-18-2025 (1).png">
-
-
-<div style="
+<!-- <div style="
   font-size: 36px;
   font-weight: 700;
   text-align: center;
@@ -15,10 +12,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 ">
   👋 I'm Rushi Patel
-</div>
-
-<!-- <h1 align="center">👋 I'm Rushi Patel</h1> -->
-<br>
+</div> -->
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
@@ -112,11 +106,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&hide_border=true&border_radius=10&cache_seconds=1800&v=1"
   height="150" /> <img
-<<<<<<< HEAD
-  src="https://streak-stats.demolab.com?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=1800&v=1"
-=======
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rushhiii&theme=vue-dark&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400&v=2"
->>>>>>> 1ef248c (update)
+  src="https://streak-stats.demolab.com?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=1800"
   height="150" /><img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=1800&v=1"
   height="150" />
