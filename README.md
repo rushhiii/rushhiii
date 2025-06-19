@@ -1,10 +1,12 @@
 <!-- Header Banner -->
-<div align="center">
+<!-- <div align="center">
     <img width="100%"
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
-</div>
+</div> -->
 
-<!-- <div style="
+<img src="./assets/-RUSHI-6-18-2025 (1).png">
+
+<div style="
   font-size: 36px;
   font-weight: 700;
   text-align: center;
@@ -12,7 +14,9 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 ">
   👋 I'm Rushi Patel
-</div> -->
+</div>
+
+<br>
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
