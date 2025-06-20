@@ -4,7 +4,7 @@
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </div> -->
 
-<img width="100%" src="./assets/Jubilee ❣️ (@16pxl) on X.jpg">
+<img width="100%" src="./assets/download (2).gif">
 
 <h1>👋 I'm Rushi Patel</h1>
 <br>
