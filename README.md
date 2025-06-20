@@ -7,8 +7,8 @@
 <!-- <img width="100%" src="./assets/download (2).jpg"> -->
 
 
-<h1>👋 I'm Rushi Patel</h1>
-<br>
+<!-- <h1>👋 I'm Rushi Patel</h1>
+<br> -->
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
