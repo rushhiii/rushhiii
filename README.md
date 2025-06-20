@@ -5,7 +5,11 @@
 </div> -->
 
 
+<<<<<<< Updated upstream
 <img width="100%" height="8%" src="./assets/download (2).gif">
+=======
+<img width="100%" src="./assets/download (2).jpg">
+>>>>>>> Stashed changes
 
 
 <h1>👋 I'm Rushi Patel</h1>
