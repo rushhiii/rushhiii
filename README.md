@@ -4,7 +4,9 @@
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </div> -->
 
-<img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif">
+<!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
+
+<img align="center" style="display:inline-block;" src="./assets/crescent_lake.gif">
 
 
 <!-- <h1>👋 I'm Rushi Patel</h1>
