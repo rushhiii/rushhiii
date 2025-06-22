@@ -6,7 +6,7 @@
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
 
-<img align="center" style="display:inline-block;" src="./assets/crescent_lake_greenwash.gif">
+<img align="center" style="display:inline-block;" src="./assets/banner/after_school.gif">
 
 
 <!-- <h1>👋 I'm Rushi Patel</h1>
