@@ -1,10 +1,10 @@
 <!-- Header Banner -->
-<!-- <div align="center">
+<div align="center">
     <img width="100%"
         src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" />
-</div> -->
+</div>
 
-<img width="100%" src="./assets/a.gif">
+<!-- <img width="100%" src="./assets/a.gif"> -->
 
 
 <!-- <h1>👋 I'm Rushi Patel</h1>
