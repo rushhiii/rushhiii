@@ -8,9 +8,9 @@
 
 <img align="center" style="display:inline-block;" src="./assets/banner/maybe/crescent_lake_greenwash.gif">
 
-
-<h1>👋 I'm Rushi Patel</h1>
 <br>
+
+<h1 align="center">👋 I'm Rushi Patel</h1>
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
