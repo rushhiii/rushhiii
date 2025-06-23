@@ -6,7 +6,7 @@
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
 
-<img align="center" style="display:inline-block;" src="./assets/banner/undefined-Imgur-ezgif.com-effects (1).png">
+<img align="center" style="display:inline-block;" src="./assets/banner/download (1).jpg">
 
 
 <!-- <h1>👋 I'm Rushi Patel</h1>
