@@ -6,7 +6,7 @@
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
 
-<img align="center" style="display:inline-block;" src="./assets/banner/GuiltyGearXXBackgroundGIF1-ezgif.com-resize.gif">
+<img align="center" style="display:inline-block;" src="./assets/banner/Please follow Commissioned a fox pixel art for my friend! #littlefox #babyfox #kit #kitten #foxlove #ilovefoxes #fox #foxes #füchse #fuchs #renard #renards.jpg">
 
 
 <!-- <h1>👋 I'm Rushi Patel</h1>
