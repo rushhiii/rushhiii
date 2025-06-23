@@ -6,11 +6,11 @@
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
 
-<img align="center" style="display:inline-block;" src="./assets/banner/download_12.gif">
+<img align="center" style="display:inline-block;" src="./assets/banner/maybe/crescent_lake_greenwash.gif">
 
 
-<!-- <h1>👋 I'm Rushi Patel</h1>
-<br> -->
+<h1>👋 I'm Rushi Patel</h1>
+<br>
 
 <h2>💫 About Me</h2>
 <!-- <a href="https://github.com/rushhiii" target="_blank">
