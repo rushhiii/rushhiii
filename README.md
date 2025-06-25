@@ -41,9 +41,11 @@
     <img width="48px"
       src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960"
       alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/tirth-patel-52a123343" target="_blank">
     <img width="48px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://rushi-bashfolio.netlify.app" target="_blank">
+    <img width="48px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="terminal" /></a>
+  <a href="https://www.instagram.com/the.tirth12" target="_blank">
     <img width="48px" src="./assets/insta_plain.png" alt="Instagram" /></a>
 </div>
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
