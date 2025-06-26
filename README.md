@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,bootstrap" /><br>
   <img src="https://skillicons.dev/icons?i=python,java,mysql,dotnet,c,cpp,cs" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,nodejs,ubuntu,powershell" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,ubuntu,powershell,netlify" /><br>
 </p>
 
 <h2>📊 Github Status</h2>
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
