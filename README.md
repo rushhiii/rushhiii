@@ -133,9 +133,6 @@
 <!--   https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg -->
 </div>
 
-<!-- ![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg) -->
-
-
 <!-- Footer -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" />
