@@ -115,9 +115,13 @@
     alt="Quotes">
 </div>
 
-<br>
 
-![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg)
+<h2>🔥 My Contribution Heatmap</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
+</div>
+
+<!-- ![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg) -->
 
 
 <!-- Footer -->
