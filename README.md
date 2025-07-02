@@ -115,6 +115,8 @@
     alt="Quotes">
 </div>
 
+<br>
+
 ![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/github-heatmap.svg)
 
 
