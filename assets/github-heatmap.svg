@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="872" height="157" style="background:#0d1117;font-family:sans-serif;" shape-rendering="geometricPrecision">
 <text x="24" y="10" fill="#c9d1d9" font-size="10">Jun</text>
-<text x="40" y="10" fill="#c9d1d9" font-size="10">Jul</text>
-<text x="104" y="10" fill="#c9d1d9" font-size="10">Aug</text>
+<text x="72" y="10" fill="#c9d1d9" font-size="10">Jul</text>
+<text x="120" y="10" fill="#c9d1d9" font-size="10">Aug</text>
 <text x="168" y="10" fill="#c9d1d9" font-size="10">Sep</text>
 <text x="248" y="10" fill="#c9d1d9" font-size="10">Oct</text>
 <text x="312" y="10" fill="#c9d1d9" font-size="10">Nov</text>
@@ -12,7 +12,6 @@
 <text x="664" y="10" fill="#c9d1d9" font-size="10">Apr</text>
 <text x="728" y="10" fill="#c9d1d9" font-size="10">May</text>
 <text x="792" y="10" fill="#c9d1d9" font-size="10">Jun</text>
-<text x="0" y="23.666666666666664" fill="#c9d1d9" font-size="10">Mon</text>
 <text x="0" y="55.666666666666664" fill="#c9d1d9" font-size="10">Wed</text>
 <text x="0" y="87.66666666666667" fill="#c9d1d9" font-size="10">Fri</text>
 <text x="0" y="119.66666666666667" fill="#c9d1d9" font-size="10">undefined</text>
@@ -384,6 +383,6 @@
 <rect x="856" y="31" width="13" height="13" rx="3" ry="3" fill="#006d32"/>
 <rect x="856" y="47" width="13" height="13" rx="3" ry="3" fill="#39d353"/>
 <rect x="856" y="63" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
-<text x="368.7" y="147" fill="#39d353" font-size="12" font-weight="bold">+4777</text>
+<text x="368.7" y="147" fill="#39d353" font-size="12" font-weight="bold">+4778</text>
 <text x="409.7" y="147" fill="#c9d1d9" font-size="12">contributions</text>
 </svg>
