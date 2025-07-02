@@ -131,8 +131,7 @@
 <br>
 
 <details>
-    <summary style="font-size:large;font-weight: bold;">🔥 My Contribution Heatmap</summary>
-    <!-- <h2>🔥 My Contribution Heatmap</h2> -->
+    <summary><h2>🔥 My Contribution Heatmap</h2></summary>
     <div align="center">
       <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
       <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
