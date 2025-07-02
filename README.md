@@ -73,7 +73,7 @@
 <h2>⭐️ Best Repositories</h2>
 
 [![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets)](https://github.com/rushhiii/Scriptable-IOSWidgets) [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Rushi-Bashfolio)](https://github.com/rushhiii/Rushi-Bashfolio)
-[![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio)](https://github.com/rushhiii/portfolio)
+[![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true)](https://github.com/rushhiii/portfolio)
 
 
 <h2>💻 Tech Stack</h2>
