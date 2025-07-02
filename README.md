@@ -127,15 +127,13 @@
     height="220" alt="Contributors"> <img
     src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" height="220"
     alt="Quotes">
+</div>
 
-  <br>
+<br>
 
   <details>
-    <!-- <summary align=left style="font-size:large;font-weight: bold;">
+    <summary>
       <h2>🔥 My Contribution Heatmap</h2>
-    </summary> -->
-    <summary align=left font-size="large" style="font-size:large;font-weight: bold;">
-      🔥 My Contribution Heatmap
     </summary>
     <div align="center">
       <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
@@ -145,8 +143,8 @@
     </div>
   </details>
 
-  <details align="left">
-    <summary align="left">My Coding Journey</summary>
+  <details>
+    <summary>My Coding Journey</summary>
     <p>
       I still remember the first time I touched a computer with intention — it was in Grade 11. I signed up
       for a Computer Science course mostly out of curiosity, not knowing it would completely shift my future.
