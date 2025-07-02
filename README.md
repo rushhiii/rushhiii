@@ -131,44 +131,44 @@
 
 <br>
 
-  <details>
-    <summary>
-      <h2>🔥 My Contribution Heatmap</h2>
-    </summary>
-    <div align="center">
-      <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
-      <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
-      <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
-      <!--   https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg -->
-    </div>
-  </details>
-
-  <details>
-    <summary>My Coding Journey</summary>
-    <p>
-      I still remember the first time I touched a computer with intention — it was in Grade 11. I signed up
-      for a Computer Science course mostly out of curiosity, not knowing it would completely shift my future.
-    </p>
-    <p>
-      Back then, I didn’t even know how to type properly. I had never written a line of code, barely used a
-      laptop, and had no idea what programming really meant. But something about solving logic problems,
-      getting code to work, and seeing instant results on screen hooked me.
-    </p>
-    <p>
-      That high school course turned into a passion. I started exploring Java, building tiny console apps, and
-      experimenting with whatever I could. Over time, I moved into web development, learned JavaScript and
-      Python, and started automating tasks just for fun. What started as a curiosity became my obsession — and
-      now my career path.
-    </p>
-    <p>
-      Today, I'm a second-year Computer Science student at Toronto Metropolitan University, working on
-      personal projects, learning new technologies, and building tools that make life easier or more
-      meaningful. I’m still learning, still growing — and still loving every moment of it.
-    </p>
-  </details>
-
-
-  <!-- Footer -->
+<details>
+  <summary>
+    <h2>🔥 My Contribution Heatmap</h2>
+  </summary>
   <div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" />
+    <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
+    <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
+    <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
+    <!--   https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg -->
   </div>
+</details>
+
+<details>
+  <summary>My Coding Journey</summary>
+  <p>
+    I still remember the first time I touched a computer with intention — it was in Grade 11. I signed up
+    for a Computer Science course mostly out of curiosity, not knowing it would completely shift my future.
+  </p>
+  <p>
+    Back then, I didn’t even know how to type properly. I had never written a line of code, barely used a
+    laptop, and had no idea what programming really meant. But something about solving logic problems,
+    getting code to work, and seeing instant results on screen hooked me.
+  </p>
+  <p>
+    That high school course turned into a passion. I started exploring Java, building tiny console apps, and
+    experimenting with whatever I could. Over time, I moved into web development, learned JavaScript and
+    Python, and started automating tasks just for fun. What started as a curiosity became my obsession — and
+    now my career path.
+  </p>
+  <p>
+    Today, I'm a second-year Computer Science student at Toronto Metropolitan University, working on
+    personal projects, learning new technologies, and building tools that make life easier or more
+    meaningful. I’m still learning, still growing — and still loving every moment of it.
+  </p>
+</details>
+
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" />
+</div>
