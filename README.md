@@ -117,7 +117,7 @@
 
 <br>
 
-![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/github-heatmap.svg)
+![GitHub Heatmap](https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg)
 
 
 <!-- Footer -->
