@@ -367,5 +367,6 @@
 <rect x="832" y="16" width="13" height="13" rx="3" ry="3" fill="#006d32"/>
 <rect x="832" y="32" width="13" height="13" rx="3" ry="3" fill="#39d353"/>
 <rect x="832" y="48" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
-<text x="842" y="132" fill="#c9d1d9" font-size="12px" style="font-weight:bold;"> <span style="color:#39d353;">+4774<span> contributions</text>
+<text x="738" y="132" fill="#39d353" font-size="12" font-weight="bold">+4775</text>
+<text x="838" y="132" fill="#c9d1d9" font-size="12">contributions</text>
 </svg>
