@@ -68,7 +68,7 @@
 <h2>📊 Github Status</h2>
 
 <div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=rank&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400"
+    <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400"
     height="150" /> <img
     src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400"
     height="150" /><img
@@ -81,7 +81,7 @@
 
 <div align="center" style="display: flex; gap: 10px;">
 
-[![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets)](https://github.com/rushhiii/Scriptable-IOSWidgets) [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Rushi-Bashfolio)](https://github.com/rushhiii/Rushi-Bashfolio)
+[![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgetstheme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff)](https://github.com/rushhiii/Scriptable-IOSWidgets) [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Rushi-Bashfolio)](https://github.com/rushhiii/Rushi-Bashfolio)
 [![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true)](https://github.com/rushhiii/portfolio)
 
 </div>
