@@ -125,13 +125,10 @@
     alt="Quotes">
 </div>
 
-<!-- &theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true -->
-
-
 <h2>🔥 My Contribution Heatmap</h2>
 <div align="center">
 <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
-  <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
+  <img src="/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
 <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
 <!--   https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg -->
 </div>
