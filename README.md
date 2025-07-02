@@ -56,10 +56,6 @@
   <img src="https://skillicons.dev/icons?i=figma,nodejs,ubuntu,powershell,netlify" /><br>
 </p>
 
-<h2>📊 Github Status</h2>
-
-<div align="center" style="display: flex; gap: 10px;">
-
   <!-- <img
     src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&hide_border=true&border_radius=10&cache_seconds=86400"
     height="150" /> <img
@@ -69,6 +65,9 @@
     height="150" /> 
     -->
       
+<h2>📊 Github Status</h2>
+
+<div align="center" style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=percentile&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400"
     height="150" /> <img
     src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400"
