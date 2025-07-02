@@ -81,7 +81,7 @@
 
 <div align="center" style="display: flex; gap: 10px;">
 
-[![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgetstheme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff)](https://github.com/rushhiii/Scriptable-IOSWidgets) [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Rushi-Bashfolio)](https://github.com/rushhiii/Rushi-Bashfolio)
+[![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff)](https://github.com/rushhiii/Scriptable-IOSWidgets) [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Rushi-Bashfolio)](https://github.com/rushhiii/Rushi-Bashfolio)
 [![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true)](https://github.com/rushhiii/portfolio)
 
 </div>
