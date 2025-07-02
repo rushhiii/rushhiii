@@ -143,7 +143,7 @@
   </details>
 
   <details>
-    <summary style="font-size:large;font-weight: bold;">My Coding Journey</summary>
+    <summary align=left style="font-size:20px;font-weight:400;">My Coding Journey</summary>
     <p>
       I still remember the first time I touched a computer with intention — it was in Grade 11. I signed up
       for a Computer Science course mostly out of curiosity, not knowing it would completely shift my future.
