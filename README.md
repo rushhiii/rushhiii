@@ -133,7 +133,7 @@
 
 <details>
   <summary>
-    <h2 style="border-bottom:1px red">🔥 My Contribution Heatmap</h2>
+    <h2>🔥 My Contribution Heatmap</h2>
   </summary>
   <div align="center">
     <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
