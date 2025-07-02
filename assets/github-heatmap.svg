@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="876" height="159" style="background:#0d1117;font-family:sans-serif;" shape-rendering="geometricPrecision">
-<text x="31" y="12" fill="#c9d1d9" font-size="15">Jul</text>
-<text x="95" y="12" fill="#c9d1d9" font-size="15">Aug</text>
-<text x="159" y="12" fill="#c9d1d9" font-size="15">Sep</text>
-<text x="239" y="12" fill="#c9d1d9" font-size="15">Oct</text>
-<text x="303" y="12" fill="#c9d1d9" font-size="15">Nov</text>
-<text x="367" y="12" fill="#c9d1d9" font-size="15">Dec</text>
-<text x="447" y="12" fill="#c9d1d9" font-size="15">Jan</text>
-<text x="511" y="12" fill="#c9d1d9" font-size="15">Feb</text>
-<text x="575" y="12" fill="#c9d1d9" font-size="15">Mar</text>
-<text x="655" y="12" fill="#c9d1d9" font-size="15">Apr</text>
-<text x="719" y="12" fill="#c9d1d9" font-size="15">May</text>
-<text x="783" y="12" fill="#c9d1d9" font-size="15">Jun</text>
-<text x="2" y="41" fill="#c9d1d9" font-size="15">Mon</text>
-<text x="2" y="73" fill="#c9d1d9" font-size="15">Wed</text>
-<text x="2" y="105" fill="#c9d1d9" font-size="15">Fri</text>
+<text x="28" y="12" fill="#c9d1d9" font-size="15">Jul</text>
+<text x="92" y="12" fill="#c9d1d9" font-size="15">Aug</text>
+<text x="156" y="12" fill="#c9d1d9" font-size="15">Sep</text>
+<text x="236" y="12" fill="#c9d1d9" font-size="15">Oct</text>
+<text x="300" y="12" fill="#c9d1d9" font-size="15">Nov</text>
+<text x="364" y="12" fill="#c9d1d9" font-size="15">Dec</text>
+<text x="444" y="12" fill="#c9d1d9" font-size="15">Jan</text>
+<text x="508" y="12" fill="#c9d1d9" font-size="15">Feb</text>
+<text x="572" y="12" fill="#c9d1d9" font-size="15">Mar</text>
+<text x="652" y="12" fill="#c9d1d9" font-size="15">Apr</text>
+<text x="716" y="12" fill="#c9d1d9" font-size="15">May</text>
+<text x="780" y="12" fill="#c9d1d9" font-size="15">Jun</text>
+<text x="2" y="41" fill="#c9d1d9" font-size="15" dominant-baseline="middle">Mon</text>
+<text x="2" y="73" fill="#c9d1d9" font-size="15" dominant-baseline="middle">Wed</text>
+<text x="2" y="105" fill="#c9d1d9" font-size="15" dominant-baseline="middle">Fri</text>
 <rect x="28" y="17" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
 <rect x="28" y="33" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
 <rect x="28" y="49" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
@@ -382,6 +382,6 @@
 <rect x="860" y="33" width="13" height="13" rx="3" ry="3" fill="#006d32"/>
 <rect x="860" y="49" width="13" height="13" rx="3" ry="3" fill="#39d353"/>
 <rect x="860" y="65" width="13" height="13" rx="3" ry="3" fill="#161b22"/>
-<text x="370.7" y="149" fill="#39d353" font-size="12" font-weight="bold">+4790</text>
+<text x="370.7" y="149" fill="#39d353" font-size="12" font-weight="bold">+4791</text>
 <text x="411.7" y="149" fill="#c9d1d9" font-size="12">contributions</text>
 </svg>
