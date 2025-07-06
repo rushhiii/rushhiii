@@ -1,5 +1,6 @@
-<div align="center">
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" /> -->
+
+<div align="center">
   <!-- HEADER_BANNER -->
   <img width="100%" src="./assets/banner/summer.gif" />
   <!-- HEADER_BANNER_END -->
@@ -163,9 +164,9 @@
   </p>
 </details>
 
+  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" /> -->
 
 <div align="center">
-  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" /> -->
   <!-- FOOTER_BANNER -->
   <img width="100%" src="./assets/banner/bb2.gif" />
   <!-- FOOTER_BANNER_END -->
