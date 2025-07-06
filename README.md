@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" /> -->
-  <img width="100%" src="./assets/banner/maybe/test.gif" />
+  <img width="100%" src="./assets/banner/maybe/Github Banner.gif" />
 </div>
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
