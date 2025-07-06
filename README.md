@@ -63,8 +63,7 @@
 
 <div align="center" style="display:flex;gap:10px;"> 
 
-<img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" height="150px" width="auto" />
-<img src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" height="150px" width="auto" /><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=86400" height="150px" width="auto" />
+  <img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" height="150px" width="auto" /> <img src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" height="150px" width="auto" /><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=86400" height="150px" width="auto" />
 
 </div>
 
@@ -118,8 +117,7 @@
 <h2>⭐ Top Contributed Repos & Random Dev Quote ✒️</h2>
 <div align="center" style="display:flex;justiy-content:center;gap:5px;flex-wrap:wrap;">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" height="220px" alt="Contributors">
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" height="220px" alt="Quotes">
+<img src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" height="220px" alt="Contributors"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" height="220px" alt="Quotes">
 
 </div>
 
