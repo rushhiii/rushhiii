@@ -119,8 +119,8 @@
 <h2>⭐ Top Contributed Repos & Random Dev Quote ✒️</h2>
 <div align="center" style="display:flex;gap:5px;">
 
-  <img style="display:block;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors">
-  <img style="display:block;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" alt="Quotes">
+  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors">
+  <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" alt="Quotes">
 
 </div>
 
