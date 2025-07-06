@@ -1,7 +1,8 @@
-<!-- Header Banner -->
 <div align="center">
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" /> -->
+  <!-- HEADER_BANNER -->
   <img width="100%" src="./assets/banner/summer.gif" />
+  <!-- HEADER_BANNER_END -->
 </div>
 
 <!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
@@ -163,8 +164,10 @@
 </details>
 
 
-<!-- Footer -->
 <div align="center">
   <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" /> -->
+  <!-- FOOTER_BANNER -->
   <img width="100%" src="./assets/banner/bb2.gif" />
+  <!-- FOOTER_BANNER_END -->
 </div>
+
