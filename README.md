@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- HEADER_BANNER -->
-  <img width="100%" src="./assets/banner/summer.gif" />
+  <img width="100%" src="./assets/banner/winter_woods.gif" />
   <!-- HEADER_BANNER_END -->
 </div>
 
@@ -168,7 +168,7 @@
 
 <div align="center">
   <!-- FOOTER_BANNER -->
-  <img width="100%" src="./assets/banner/bb2.gif" />
+  <img width="100%" src="./assets/banner/bb1.gif" />
   <!-- FOOTER_BANNER_END -->
 </div>
 
