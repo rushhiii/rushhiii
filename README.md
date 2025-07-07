@@ -14,7 +14,7 @@
 
 <!-- <h1 align="center">👋 I'm Rushi Patel</h1> -->
 
-<h2>💫 About Me</h2>
+<h2>💫 About Me</h2> 
 
 <div>
   <img align="right" width="350px" src="./assets/typing_code.png" alt="Terminal Banner">
