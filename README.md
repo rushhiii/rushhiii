@@ -168,7 +168,7 @@
 
 <div align="center">
   <!-- FOOTER_BANNER -->
-  <img width="100%" src="./assets/banner/bb3.gif" />
+  <img width="100%" src="./assets/banner/desert.jpeg" />
   <!-- FOOTER_BANNER_END -->
 </div>
 
