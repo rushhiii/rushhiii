@@ -171,4 +171,3 @@
   <img width="100%" src="./assets/banner/desert.jpeg" />
   <!-- FOOTER_BANNER_END -->
 </div>
-
