@@ -61,8 +61,15 @@
 </p>
 
 
+<h2>🏆 GitHub Trophy</h2>
+<div align="center" style="display:flex;gap:10px;">
+
+  <img style="width:100%;" src="https://github-profile-trophy.vercel.app/?username=rushhiii&theme=nord" />
+
+</div>
+
+
 <h2>📊 Github Status</h2>
-<!-- 846 437  423 -->
 <div align="center" style="display:flex;gap:10px;"> 
 
   <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
