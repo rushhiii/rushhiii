@@ -61,12 +61,12 @@
 </p>
 
 
-<h2>🏆 GitHub Trophy</h2>
+<!-- <h2>🏆 GitHub Trophy</h2>
 <div align="center" style="display:flex;gap:10px;">
 
   <img style="width:100%;" src="https://github-profile-trophy.vercel.app/?username=rushhiii&theme=nord" />
 
-</div>
+</div> -->
 
 
 <h2>📊 Github Status</h2>
