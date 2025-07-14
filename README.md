@@ -90,8 +90,6 @@
   <a href="https://github.com/rushhiii/portfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
   <a href="https://github.com/rushhiii/bashfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=bashfolio&show_owner=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
 
-
-
 </div>
 
 <h2>💻 Tech Stack</h2>
@@ -111,7 +109,6 @@
   <!-- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
     alt="Netlify" />
-
   <!-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
