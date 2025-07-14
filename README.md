@@ -82,9 +82,11 @@
 
 <div align="center" style="display:flex;gap:10px;">
 
-  [![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true)](https://github.com/rushhiii/Scriptable-IOSWidgets)
+  <!-- [![repo_1](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true)](https://github.com/rushhiii/Scriptable-IOSWidgets)
   [![repo_2](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=bashfolio&show_owner=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true)](https://github.com/rushhiii/bashfolio)
-  [![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true&cache_seconds=100)](https://github.com/rushhiii/portfolio)
+  [![repo_3](https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&show_owner=true&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true&cache_seconds=100)](https://github.com/rushhiii/portfolio) -->
+
+  <a href="https://github.com/rushhiii/Scriptable-IOSWidgets"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=nord&bg_color=1a1a2e&title_color=ffd700&icon_color=00bfff&text_color=ffffff&ring_color=00bfff&hide_border=true" /></a>
 
 </div>
 
