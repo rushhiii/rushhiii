@@ -137,12 +137,11 @@
 
 <!-- <details>
   <summary> -->
-    <h2>🔥 My Contribution Heatmap</h2>
+  <h2>🔥 My Contribution Heatmap</h2>
   <!-- </summary> -->
   <div align="center">
     <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
     <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" />
     <!--   <img src="https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" /> -->
     <!--   https://raw.githubusercontent.com/rushhiii/rushhiii/refs/heads/main/assets/github-heatmap.svg -->
   </div>
@@ -171,6 +170,8 @@
     meaningful. I’m still learning, still growing — and still loving every moment of it.
   </p>
 </details>
+
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" /> -->
 
 <div align="center">
   <!-- FOOTER_BANNER -->
