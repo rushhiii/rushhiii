@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="888" height="164" style="background:#0D111700;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;" shape-rendering="geometricPrecision">
-<text x="72" y="17" fill="#fff" font-size="15">Aug</text>
-<text x="152" y="17" fill="#fff" font-size="15">Sep</text>
-<text x="216" y="17" fill="#fff" font-size="15">Oct</text>
-<text x="280" y="17" fill="#fff" font-size="15">Nov</text>
-<text x="360" y="17" fill="#fff" font-size="15">Dec</text>
-<text x="424" y="17" fill="#fff" font-size="15">Jan</text>
-<text x="488" y="17" fill="#fff" font-size="15">Feb</text>
-<text x="552" y="17" fill="#fff" font-size="15">Mar</text>
-<text x="632" y="17" fill="#fff" font-size="15">Apr</text>
-<text x="696" y="17" fill="#fff" font-size="15">May</text>
+<text x="440" y="17" fill="#fff" font-size="15">Jan</text>
+<text x="504" y="17" fill="#fff" font-size="15">Feb</text>
+<text x="568" y="17" fill="#fff" font-size="15">Mar</text>
+<text x="648" y="17" fill="#fff" font-size="15">Apr</text>
+<text x="712" y="17" fill="#fff" font-size="15">May</text>
 <text x="776" y="17" fill="#fff" font-size="15">Jun</text>
-<text x="840" y="17" fill="#fff" font-size="15">Jul</text>
+<text x="40" y="17" fill="#fff" font-size="15">Jul</text>
+<text x="856" y="17" fill="#fff" font-size="15">Jul</text>
+<text x="88" y="17" fill="#fff" font-size="15">Aug</text>
+<text x="152" y="17" fill="#fff" font-size="15">Sep</text>
+<text x="232" y="17" fill="#fff" font-size="15">Oct</text>
+<text x="296" y="17" fill="#fff" font-size="15">Nov</text>
+<text x="360" y="17" fill="#fff" font-size="15">Dec</text>
 <text x="4" y="46" fill="#fff" font-size="15" dominant-baseline="middle">Mon</text>
 <text x="4" y="78" fill="#fff" font-size="15" dominant-baseline="middle">Wed</text>
 <text x="4" y="110" fill="#fff" font-size="15" dominant-baseline="middle">Fri</text>
@@ -381,7 +382,8 @@
 <rect x="872" y="22" width="13" height="13" rx="2" ry="2" fill="#ffd700"/>
 <rect x="872" y="38" width="13" height="13" rx="2" ry="2" fill="#ffd700"/>
 <rect x="872" y="54" width="13" height="13" rx="2" ry="2" fill="#1c7293"/>
-<rect x="872" y="70" width="13" height="13" rx="2" ry="2" fill="#00bfff"/>
-<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+6905</text>
+<rect x="872" y="70" width="13" height="13" rx="2" ry="2" fill="#ffd700"/>
+<rect x="872" y="86" width="13" height="13" rx="2" ry="2" fill="#1a1a2e"/>
+<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+6914</text>
 <text x="417.7" y="152" fill="#fff" font-size="12">contributions</text>
 </svg>
