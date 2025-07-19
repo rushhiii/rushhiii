@@ -100,7 +100,7 @@
 <div align="center">
 
   <!-- Programming Languages -->
-  <h3>🔤 Programming Languages</h3>
+  <!-- <h3>Programming Languages</h3> -->
   <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -108,14 +108,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-blue.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8dGl0bGU+Y3NzMzwvdGl0bGU+IDxwYXRoIGQ9Ik0yNC4yMzUgNi41MTlsLTE2LjQ3LTAuMDA0IDAuMjY2IDMuMjc3IDEyLjY1MyAwLjAwMi0wLjMxOSAzLjM5NGgtOC4yOThsMC4zIDMuMjE1aDcuNzI1bC0wLjQ1NyA0LjQwMy0zLjYzNiAxLjAwNS0zLjY5NC0xLjAxMi0wLjIzNS0yLjYzN2gtMy4yNjJsMC4zNjIgNC44MTcgNi44MjkgMi4xMjggNi43MTQtMS45MTIgMS41MjEtMTYuNjc1ek0yLjg3OSAxLjAwNGgyNi4yNDJsLTIuMzg3IDI2Ljk0Ni0xMC43NjMgMy4wNDUtMTAuNzAzLTMuMDQ3eiIvPiA8L2c+Cg08L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
   <!-- Frameworks & Libraries -->
-  <h3>Frameworks & Libraries:</h3>
+  <!-- <h3>Frameworks & Libraries:</h3> -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
   <!-- Tools & IDEs -->
-  <h3>Tools & IDEs:</h3>
+  <!-- <h3>Tools & IDEs:</h3> -->
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
@@ -124,9 +122,8 @@
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
   <!-- Deployment & Hosting -->
-  <h3>Deployment & Hosting:</h3>
+  <!-- <h3>Deployment & Hosting:</h3> -->
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
     alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
