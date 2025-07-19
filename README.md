@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- HEADER_BANNER -->
-  <img width="100%" src="./assets/banner/summer.gif" />
+  <img width="100%" src="./assets/banner/summer.gif" alt="Banner GIF" />
   <!-- HEADER_BANNER_END -->
 </div>
 
@@ -128,7 +128,7 @@
 
 </div>
 
-<h2>⭐ Top Contributed Repos & Random Dev Quote ✒️</h2>
+<h3>⭐ Top Contributed Repos & Random Dev Quote ✒️</h3>
 <div align="center" style="display:flex;gap:5px;">
 
   <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors">
