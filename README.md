@@ -114,6 +114,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <!-- Tools & IDEs -->
   <!-- <h3>Tools & IDEs:</h3> -->
+  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
