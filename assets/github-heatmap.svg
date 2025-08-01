@@ -1,18 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="888" height="164" style="background:#0D111700;font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;" shape-rendering="geometricPrecision">
-<text x="408" y="17" fill="#fff" font-size="15">Jan</text>
-<text x="472" y="17" fill="#fff" font-size="15">Feb</text>
-<text x="536" y="17" fill="#fff" font-size="15">Mar</text>
-<text x="616" y="17" fill="#fff" font-size="15">Apr</text>
-<text x="680" y="17" fill="#fff" font-size="15">May</text>
-<text x="744" y="17" fill="#fff" font-size="15">Jun</text>
-<text x="824" y="17" fill="#fff" font-size="15">Jul</text>
-<text x="840" y="17" fill="#fff" font-size="15">Jul</text>
-<text x="56" y="17" fill="#fff" font-size="15">Aug</text>
-<text x="88" y="17" fill="#fff" font-size="15">Aug</text>
-<text x="120" y="17" fill="#fff" font-size="15">Sep</text>
-<text x="200" y="17" fill="#fff" font-size="15">Oct</text>
-<text x="264" y="17" fill="#fff" font-size="15">Nov</text>
-<text x="328" y="17" fill="#fff" font-size="15">Dec</text>
+<text x="40" y="17" fill="#fff" font-size="15">Aug</text>
+<text x="104" y="17" fill="#fff" font-size="15">Sep</text>
+<text x="184" y="17" fill="#fff" font-size="15">Oct</text>
+<text x="248" y="17" fill="#fff" font-size="15">Nov</text>
+<text x="312" y="17" fill="#fff" font-size="15">Dec</text>
+<text x="392" y="17" fill="#fff" font-size="15">Jan</text>
+<text x="456" y="17" fill="#fff" font-size="15">Feb</text>
+<text x="520" y="17" fill="#fff" font-size="15">Mar</text>
+<text x="600" y="17" fill="#fff" font-size="15">Apr</text>
+<text x="664" y="17" fill="#fff" font-size="15">May</text>
+<text x="728" y="17" fill="#fff" font-size="15">Jun</text>
+<text x="808" y="17" fill="#fff" font-size="15">Jul</text>
 <text x="4" y="46" fill="#fff" font-size="15" dominant-baseline="middle">Mon</text>
 <text x="4" y="78" fill="#fff" font-size="15" dominant-baseline="middle">Wed</text>
 <text x="4" y="110" fill="#fff" font-size="15" dominant-baseline="middle">Fri</text>
@@ -385,7 +383,7 @@
 <rect x="872" y="54" width="13" height="13" rx="2" ry="2" fill="#00bfff"/>
 <rect x="872" y="70" width="13" height="13" rx="2" ry="2" fill="#ffd700"/>
 <rect x="872" y="86" width="13" height="13" rx="2" ry="2" fill="#ffd700"/>
-<rect x="872" y="102" width="13" height="13" rx="2" ry="2" fill="#113f67"/>
-<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+7051</text>
+<rect x="872" y="102" width="13" height="13" rx="2" ry="2" fill="#1c7293"/>
+<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+7056</text>
 <text x="417.7" y="152" fill="#fff" font-size="12">contributions</text>
 </svg>
