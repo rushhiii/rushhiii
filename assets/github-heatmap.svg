@@ -381,7 +381,8 @@
 <rect x="872" y="22" width="13" height="13" rx="2" ry="2" fill="#00bfff"/>
 <rect x="872" y="38" width="13" height="13" rx="2" ry="2" fill="#113f67"/>
 <rect x="872" y="54" width="13" height="13" rx="2" ry="2" fill="#00bfff"/>
-<rect x="872" y="70" width="13" height="13" rx="2" ry="2" fill="#1a1a2e"/>
-<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+7307</text>
+<rect x="872" y="70" width="13" height="13" rx="2" ry="2" fill="#1c7293"/>
+<rect x="872" y="86" width="13" height="13" rx="2" ry="2" fill="#1a1a2e"/>
+<text x="376.7" y="152" fill="#ffd700" font-size="12" font-weight="bold">+7313</text>
 <text x="417.7" y="152" fill="#fff" font-size="12">contributions</text>
 </svg>
