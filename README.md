@@ -39,7 +39,7 @@
     <ul>
       <li width="300px">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li width="300px">🌱 I'm currently working on developing my programming skills.</li>
-      <li width="300px">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li style="display:block;" width="300px">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
       <li width="300px">🔭 Exploring: C, C++, and UNIX</li>
       <li width="300px">✨ Perfection isn’t the goal. Precision is.</li>
     </ul>
