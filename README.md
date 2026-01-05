@@ -79,11 +79,20 @@
   <img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" />
   <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=86400&card_width=350" /> -->
 
-  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&bg_color=0a192f&title_color=b0e0e6&icon_color=00ffff&text_color=ffffff&ring_color=00ffff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10" />
-  <img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&hide_border=true&background=0a192f&ring=00ffff&fire=b0e0e6&currStreakLabel=b0e0e6&currStreakNum=ffffff&sideNums=ffffff&dates=b0e0e6" />
-  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&hide_border=true&bg_color=0a192f&title_color=b0e0e6&text_color=ffffff&card_width=350" />
+<!-- Winter Frost Theme - Complete Set -->
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=0d1b2a&title_color=e0fbfc&icon_color=98c1d9&text_color=caf0f8&ring_color=98c1d9&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=holi-theme&hide_border=true&background=0d1b2a&ring=98c1d9&fire=e0fbfc&currStreakLabel=e0fbfc&currStreakNum=caf0f8&sideNums=caf0f8&dates=caf0f8&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=holi-theme&hide_border=true&bg_color=0d1b2a&title_color=e0fbfc&text_color=caf0f8&cache_seconds=86400&card_width=350" />
 
+<!-- Deep blue/white with snow highlights -->
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=1a1a2e&title_color=ffffff&icon_color=a8dadc&text_color=f1faee&ring_color=a8dadc&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=holi-theme&hide_border=true&background=1a1a2e&ring=a8dadc&fire=ffffff&currStreakLabel=ffffff&currStreakNum=f1faee&sideNums=f1faee&dates=f1faee&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=holi-theme&hide_border=true&bg_color=1a1a2e&title_color=ffffff&text_color=f1faee&cache_seconds=86400&card_width=350" />
 
+<!-- White peaks on dark blue mountains -->
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=nord&bg_color=0a2342&title_color=8ecae6&icon_color=219ebc&text_color=ffffff&ring_color=219ebc&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=holi-theme&hide_border=true&background=0a2342&ring=219ebc&fire=8ecae6&currStreakLabel=8ecae6&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=holi-theme&hide_border=true&bg_color=0a2342&title_color=8ecae6&text_color=ffffff&cache_seconds=86400&card_width=350" />
 
 
 </div>
