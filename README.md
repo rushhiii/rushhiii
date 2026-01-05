@@ -33,8 +33,8 @@
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
   <div style="display:block;" width="50%">
-    <img align="right" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
-  <!-- </div> -->
+    <img align="right" width=330 src="./assets/temp/216593.gif" alt="Side ele" />
+  </div>
   <!-- <div align="left" width="350px"> -->
   <div align="left" style="display:block;" width="50%">
     <ul>
