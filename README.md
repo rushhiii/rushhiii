@@ -30,9 +30,11 @@
 </h2> 
 
 <div style="display:flex;">
-  <img align="right" width="350px" src="./assets/temp/216593.gif" alt="Side ele" />
+  <div align="right">
+    <img align="center" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
+  </div>
   <div align="left" width="350px">
-    <ul width="350px !important">
+    <ul>
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li>🌱 I'm currently working on developing my programming skills.</li>
       <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
