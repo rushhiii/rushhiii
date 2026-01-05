@@ -32,16 +32,15 @@
 <div>
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
-    <img align="right" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
-  <!-- </div> -->
+  <img align="right" width=330 src="./assets/temp/hollow-knight-knight.gif" alt="Side ele" />
   <!-- <div align="left" width="350px"> -->
-  <div align="left" width="300px">
+  <div align="left">
     <ul>
-      <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
-      <li>🌱 I'm currently working on developing my programming skills.</li>
-      <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
-      <li>🔭 Exploring: C, C++, and UNIX</li>
-      <li>✨ Perfection isn’t the goal. Precision is.</li>
+      <li width="300px">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li width="300px">🌱 I'm currently working on developing my programming skills.</li>
+      <li style="display:block;" width="300px">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li width="300px">🔭 Exploring: C, C++, and UNIX</li>
+      <li width="300px">✨ Perfection isn’t the goal. Precision is.</li>
     </ul>
   </div>
 
