@@ -29,7 +29,7 @@
   About Me
 </h2> 
 
-<div>
+<div style="display:flex;">
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
     <img align="right" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
