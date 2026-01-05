@@ -34,7 +34,7 @@
     <img align="right" width="200px" src="./assets/temp/giphy.gif" alt="Side ele" />
   </div>
   <div align="left" width="350px">
-    <ul width="350px">
+    <ul width="350px !important">
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li>🌱 I'm currently working on developing my programming skills.</li>
       <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
