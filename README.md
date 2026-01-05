@@ -116,8 +116,6 @@
 
 </div>
 
-<br>
-
 <h2>
   Tech Stack
 </h2>
