@@ -1,21 +1,25 @@
-  <!-- Authorization for README inspiration -->
-<!--
-    Dear user using this README as a base,
-    Thank you for the inspiration from similar designs!
-    I believe in open collaboration and sharing knowledge.
--->
+  <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=👋+I'm+Rushi+Patel&color=203a43&height=200&section=header&fontSize=50&fontColor=ffffff&animation=twinkling" /> -->
 
-<!-- Banner -->
 <div align="center">
-  <img width="100%" src="./assets/banner/winter_woods.gif" alt="Header Banner" />
+  <!-- HEADER_BANNER -->
+  <img width="100%" src="./assets/banner/winter_woods.gif" />
+  <!-- HEADER_BANNER_END -->
 </div>
+
+<!-- <img style="max-width:100%;display:inline-block;" src="./assets/crescent_lake.gif"> -->
+
+<!-- <img align="center" style="display:inline-block;" src="./assets/banner/maybe/crescent_lake_greenwash.gif"> -->
+
 <br>
-<div style="display:flex;justify-content:center;gap:3px;">
-  <a href="https://github.com/rushhiii">
+
+<!-- <h1 align="center">👋 I'm Rushi Patel</h1> -->
+
+<div align="center" style="display:flex;justify-content:center;gap:3px;">
+  <a style="display:block;" href="https://github.com/rushhiii">
     <img width="160px" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true" alt="Profile Views" title="Total Profile Views"/></a>
-  <a href="https://api.github-star-counter.workers.dev/user/rushhiii">
+  <a style="display:block;" href="https://api.github-star-counter.workers.dev/user/rushhiii">
     <img width="120px" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
-  <a href="https://github.com/rushhiii?tab=followers">
+  <a style="display:block;" href="https://github.com/rushhiii?tab=followers">
     <!-- <img width="130px" alt="Followers" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/rushhiii?color=e0fbfc&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /> -->
       <img width="150px" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /></a>
 </div>
@@ -161,7 +165,8 @@
 </h2>
 <div align="center" style="display:flex;gap:5px;">
 
-  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors">
+  <!-- <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors"> -->
+  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors">
   <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&backgroundColor=1a1a1a&quoteColor=e0fbfc&authorColor=e0fbfc&symbolColor=e0fbfc&border_radius=10" alt="Quotes">
 
 </div>
