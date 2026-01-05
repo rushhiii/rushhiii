@@ -29,13 +29,14 @@
   About Me
 </h2> 
 
-<div style="display:flex;">
+<div style="display:flex;width:100%;">
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
+  <div style="display:block;" width="50%">
     <img align="right" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
   <!-- </div> -->
   <!-- <div align="left" width="350px"> -->
-  <div align="left" width="300px">
+  <div align="left" style="display:block;" width="50%">
     <ul>
       <li width="300px">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li width="300px">🌱 I'm currently working on developing my programming skills.</li>
