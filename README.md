@@ -159,8 +159,7 @@
 <h2>
   Top Contributions & Dev Quote
 </h2>
-
-<div align="center" style="display:flex;gap:5px;flex-wrap:wrap;justify-content:center;">
+<div align="center" style="display:flex;gap:5px;">
 
   <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors">
   <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&backgroundColor=1a1a1a&quoteColor=e0fbfc&authorColor=e0fbfc&symbolColor=e0fbfc&border_radius=10" alt="Quotes">
