@@ -35,13 +35,11 @@
   <img align="right" width=330 src="./assets/temp/hollow-knight-knight.gif" alt="Side ele" />
   <!-- <div align="left" width="350px"> -->
   <div align="left">
-    <ul>
-      <li>■ 2nd Year Computer Science Student at Toronto Metropolitan University</li>
-      <li>□ Currently working on developing my programming skills</li>
-      <li>■ Passionate about full-stack development, AI/ML, and building tools that automate and inspire</li>
-      <li>□ Exploring: C, C++, and UNIX</li>
-      <li>■ Perfection isn't the goal. Precision is.</li>
-    </ul>
+    <p>■ 2nd Year Computer Science Student at Toronto Metropolitan University</p>
+    <p>□ Currently working on developing my programming skills</p>
+    <p>■ Passionate about full-stack development, AI/ML, and building tools that automate and inspire</p>
+    <p>□ Exploring: C, C++, and UNIX</p>
+    <p>■ Perfection isn't the goal. Precision is.</p>
   </div>
 
 </div>
