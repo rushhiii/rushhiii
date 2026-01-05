@@ -29,10 +29,8 @@
   About Me
 </h2> 
 
-<div>
-  <div align="right" width="350px">
-    <img align="right" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
-  </div>
+<div style="display:flex;">
+  <img align="right" width="350px" src="./assets/temp/216593.gif" alt="Side ele" />
   <div align="left" width="350px">
     <ul width="350px !important">
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
