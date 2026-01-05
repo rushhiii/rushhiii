@@ -36,7 +36,7 @@
   <!-- </div> -->
   <!-- <div align="left" width="350px"> -->
   <div align="left" width="300px">
-    <ul style="max-width:300px;display:block;" >
+    <ul>
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li>🌱 I'm currently working on developing my programming skills.</li>
       <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
