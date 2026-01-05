@@ -37,11 +37,11 @@
   <!-- <div align="left" width="350px"> -->
   <div align="left" width="300px">
     <ul>
-      <li style="max-width:300px;">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
-      <li style="max-width:300px;">🌱 I'm currently working on developing my programming skills.</li>
-      <li style="max-width:300px;">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
-      <li style="max-width:300px;">🔭 Exploring: C, C++, and UNIX</li>
-      <li style="max-width:300px;">✨ Perfection isn’t the goal. Precision is.</li>
+      <li style="width:300px;">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li style="width:300px;">🌱 I'm currently working on developing my programming skills.</li>
+      <li style="width:300px;">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li style="width:300px;">🔭 Exploring: C, C++, and UNIX</li>
+      <li style="width:300px;">✨ Perfection isn’t the goal. Precision is.</li>
     </ul>
   </div>
 
