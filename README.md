@@ -79,9 +79,9 @@
   <img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=merko&hide_border=true&background=1a1a2e&ring=00bfff&fire=ffd700&currStreakLabel=ffd700&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&cache_seconds=86400" />
   <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=merko&hide_border=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&cache_seconds=86400&card_width=350" /> -->
 
-  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=transparent&bg_color=0b132b&title_color=6fffe9&icon_color=5bc0eb&text_color=ffffff&ring_color=6fffe9&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=12&cache_seconds=86400" /> 
-  <img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=transparent&hide_border=true&background=0b132b&ring=6fffe9&fire=5bc0eb&currStreakLabel=6fffe9&currStreakNum=ffffff&sideNums=cbd5e1&dates=cbd5e1&cache_seconds=86400" /> 
-  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=transparent&hide_border=true&bg_color=0b132b&title_color=6fffe9&text_color=ffffff&cache_seconds=86400&card_width=350" />
+  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&bg_color=0a192f&title_color=b0e0e6&icon_color=00ffff&text_color=ffffff&ring_color=00ffff&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10" />
+  <img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&hide_border=true&background=0a192f&ring=00ffff&fire=b0e0e6&currStreakLabel=b0e0e6&currStreakNum=ffffff&sideNums=ffffff&dates=b0e0e6" />
+  <img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&hide_border=true&bg_color=0a192f&title_color=b0e0e6&text_color=ffffff&card_width=350" />
 
 
 
