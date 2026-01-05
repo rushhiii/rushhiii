@@ -31,7 +31,7 @@
 
 <div>
   <div align="right" width="350px">
-    <img height="350px" src="./assets/temp/giphy.gif" alt="Side ele" />
+    <img align="right" height="350px" src="./assets/temp/giphy.gif" alt="Side ele" />
   </div>
   <div align="left" width="350px">
     <ul>
