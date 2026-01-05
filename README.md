@@ -43,33 +43,40 @@
   
   <br><br>
   
-  **Perfection isn't the goal. Precision is.**
+  Perfection isn't the goal. Precision is.
 
 </div>
 
 <br>
 
-<h3 align="center">
-  Let's Connect
-</h3>
 
-<div align="center">
-  <a href="mailto:rushiofficial1205@gmail.com" target="_blank">
-    <img width="50px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/tirth-patel-52a123343" target="_blank">
-    <img width="50px" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+
+<div align="left">
+  <!-- Gmail -->
+  <a href="mailto:rushiofficial1205@gmail.com">
+    <img width="48px" style="filter:grayscale(1);"
+      src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960"
+      alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/tirth-patel-52a123343" target="_blank" rel="noopener noreferrer">
+    <img width="48px" style="filter:grayscale(1);" src="./assets/linkedin.png" alt="LinkedIn" /></a>
   <a href="https://rushi-bashfolio.netlify.app" target="_blank">
-    <img width="50px" src="https://skillicons.dev/icons?i=github" alt="Portfolio" />
-  </a>
+    <img width="48px" style="filter:grayscale(1);"
+      src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?"
+      alt="terminal" /></a>
+  <!-- <a href="https://www.instagram.com/the.tirth12" target="_blank">
+    <img width="48px" src="./assets/insta_plain.png" alt="Instagram" />
+  </a> -->
+
 </div>
+
+
+
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
-<h3 align="center">
+<h3>
   Languages & Tools
 </h3>
 
-<p align="center">
+<p align="center" style="filter:grayscale(1);">
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,mysql&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=flask,bootstrap,react,nodejs&theme=dark" /><br>
@@ -87,7 +94,7 @@
 </div> -->
 
 
-<h3 align="center">
+<h3>
   GitHub Status
 </h3>
 
@@ -117,7 +124,7 @@
   Tech Stack
 </h3>
 
-<div align="center">
+<div align="center" style="filter:grayscale(1);">
 
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
