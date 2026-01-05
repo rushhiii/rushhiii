@@ -36,11 +36,11 @@
   <!-- <div align="left" width="350px"> -->
   <div align="left">
     <ul>
-      <li width="300px">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
-      <li width="300px">🌱 I'm currently working on developing my programming skills.</li>
-      <li style="display:block;" width="300px">⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
-      <li width="300px">🔭 Exploring: C, C++, and UNIX</li>
-      <li width="300px">✨ Perfection isn’t the goal. Precision is.</li>
+      <li>■ 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li>□ Currently working on developing my programming skills</li>
+      <li>■ Passionate about full-stack development, AI/ML, and building tools that automate and inspire</li>
+      <li>□ Exploring: C, C++, and UNIX</li>
+      <li>■ Perfection isn't the goal. Precision is.</li>
     </ul>
   </div>
 
