@@ -47,18 +47,16 @@
 
 
 
-<div align="left" style="filter:grayscale(1);">
-  <!-- Gmail -->
-  <a href="mailto:rushiofficial1205@gmail.com">
-    <img width="48px"
-      src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960"
-      alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/tirth-patel-52a123343" target="_blank" rel="noopener noreferrer">
-    <img width="48px" src="./assets/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://rushi-bashfolio.netlify.app" target="_blank">
+<div align="left">
+ <a href="https://rushi-bashfolio.netlify.app" target="_blank">
     <img width="48px"
       src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?"
       alt="terminal" /></a>
+  <a href="mailto:rushiofficial1205@gmail.com">
+    <img width="48px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/rushhiii" target="_blank" rel="noopener noreferrer">
+    <img width="48px" src="./assets/linkedin.png" alt="LinkedIn" /></a>
+ 
   <!-- <a href="https://www.instagram.com/the.tirth12" target="_blank">
     <img width="48px" src="./assets/insta_plain.png" alt="Instagram" />
   </a> -->
@@ -165,8 +163,8 @@
 </h2>
 <div align="center" style="display:flex;gap:5px;">
 
-  <!-- <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors"> -->
-  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors">
+  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors">
+  <!-- <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a2e&title_color=ffd700&text_color=ffffff&border_radius=10&cache_seconds=1800" alt="Contributors"> -->
   <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&backgroundColor=1a1a1a&quoteColor=e0fbfc&authorColor=e0fbfc&symbolColor=e0fbfc&border_radius=10" alt="Quotes">
 
 </div>
