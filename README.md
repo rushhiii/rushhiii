@@ -9,13 +9,7 @@
 <div align="center">
   <img width="100%" src="./assets/banner/winter_woods.gif" alt="Header Banner" />
 </div>
-
 <br>
-
-<h3 align="center">
-  About Me
-</h3> 
-
 <div style="display:flex;justify-content:center;gap:3px;">
   <a href="https://github.com/rushhiii">
     <img width="160px" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true" alt="Profile Views" title="Total Profile Views"/></a>
@@ -26,21 +20,22 @@
       <img width="150px" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /></a>
 </div>
 
-<br>
 
+<h2>
+  About Me
+</h2> 
 
-
-
-  <br><br>
-
-  ▪ Currently developing my programming skills across multiple domains
-  <br>▪ Exploring: C, C++, and UNIX systems
-  <br>▪ Interested in large-scale projects that challenge my thinking
-  <br>▪ Always willing to help others learn about programming
-  
-  <br><br>
-  
-  Perfection isn't the goal. Precision is.
+<div>
+  <img align="right" width="350px" src="./assets/typing_code.png" alt="Side ele">
+  <div align="left" width="350px">
+    <ul>
+      <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
+      <li>🌱 I'm currently working on developing my programming skills.</li>
+      <li>⚡ Passionate about full-stack development, AI/ML, and building tools that automate and inspire.</li>
+      <li>🔭 Exploring: C, C++, and UNIX</li>
+      <li>✨ Perfection isn’t the goal. Precision is.</li>
+    </ul>
+  </div>
 
 </div>
 
@@ -66,18 +61,20 @@
 
 </div>
 
+<!-- <h2>🏆 GitHub Trophy</h2>
+<div align="center" style="display:flex;gap:10px;">
 
+  <img style="width:100%;" src="https://github-profile-trophy.vercel.app/?username=rushhiii&theme=nord" />
+
+</div> -->
 
 <!-- 🧩🔮🕶️⚙️⛓️📚 -->
-<h3>
-  Languages & Tools
-</h3>
-
-<p align="center" style="filter:grayscale(1);">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,mysql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=flask,bootstrap,react,nodejs&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,powershell&theme=dark" /><br>
+<h2>Languages & tools I Have placed My Hands On</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,eclipse,github,git" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,bash,powershell,nodejs,ubuntu,vercel,netlify" /><br>
+  <img src="https://skillicons.dev/icons?i=,,flask,bootstrap,react,," /><br>
 </p>
 
 <br>
@@ -91,9 +88,9 @@
 </div> -->
 
 
-<h3>
+<h2>
   GitHub Status
-</h3>
+</h2>
 
 <div align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;"> 
 
@@ -103,9 +100,9 @@
 
 </div>
 
-<h3 align="center">
+<h2>
   Best Repositories
-</h3>
+</h2>
 
 <div align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;">
 
@@ -117,62 +114,64 @@
 
 <br>
 
-<h3 align="center">
+<h2>
   Tech Stack
-</h3>
+</h2>
 
-<div align="center" style="filter:grayscale(1);">
+<div align="center">
 
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <!-- Programming Languages -->
+  <!-- <h3>Programming Languages</h3> -->
+  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-blue.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8dGl0bGU+Y3NzMzwvdGl0bGU+IDxwYXRoIGQ9Ik0yNC4yMzUgNi41MTlsLTE2LjQ3LTAuMDA0IDAuMjY2IDMuMjc3IDEyLjY1MyAwLjAwMi0wLjMxOSAzLjM5NGgtOC4yOThsMC4zIDMuMjE1aDcuNzI1bC0wLjQ1NyA0LjQwMy0zLjYzNiAxLjAwNS0zLjY5NC0xLjAxMi0wLjIzNS0yLjYzN2gtMy4yNjJsMC4zNjIgNC44MTcgNi44MjkgMi4xMjggNi43MTQtMS45MTIgMS41MjEtMTYuNjc1ek0yLjg3OSAxLjAwNGgyNi4yNDJsLTIuMzg3IDI2Ljk0Ni0xMC43NjMgMy4wNDUtMTAuNzAzLTMuMDQ3eiIvPiA8L2c+Cg08L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  
-  <br>
-
+  <!-- Frameworks & Libraries -->
+  <!-- <h3>Frameworks & Libraries:</h3> -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-  <br>
-
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <!-- Tools & IDEs -->
+  <!-- <h3>Tools & IDEs:</h3> -->
   <img src="https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- Deployment & Hosting -->
+  <!-- <h3>Deployment & Hosting:</h3> -->
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
+    alt="Netlify" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+
 
 </div>
 
 <br>
 
-<h3 align="center">
+<h2>
   Top Contributions & Dev Quote
-</h3>
+</h2>
 
 <div align="center" style="display:flex;gap:5px;flex-wrap:wrap;justify-content:center;">
 
   <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors">
-  <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border_radius=10" alt="Quotes">
+  <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&backgroundColor=1a1a1a&quoteColor=e0fbfc&authorColor=e0fbfc&symbolColor=e0fbfc&border_radius=10" alt="Quotes">
 
 </div>
 
 <br>
 
-<h3 align="center">
+<h2>
   Contribution Heatmap
-</h3>
+</h2>
 
 <div align="center">
   <img src="./assets/github-heatmap.svg" alt="GitHub Heatmap" width="100%" />
@@ -202,6 +201,10 @@
   </p>
 </details>
 
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=203a43&height=200&section=footer" /> -->
+
 <div align="center">
-  <img width="100%" src="./assets/banner/intensity_v1.png" alt="Footer Banner" />
+  <!-- FOOTER_BANNER -->
+  <img width="100%" src="./assets/banner/intensity_v1.png" />
+  <!-- FOOTER_BANNER_END -->
 </div>
