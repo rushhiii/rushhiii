@@ -30,7 +30,7 @@
 </h2> 
 
 <div style="display:flex;">
-  <div align="right">
+  <div align="right" width="350px">
     <img align="center" width="200px" src="./assets/temp/216593.gif" alt="Side ele" />
   </div>
   <div align="left" width="350px">
