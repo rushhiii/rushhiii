@@ -30,7 +30,7 @@
 </h2> 
 
 <div>
-  <img align="right" width="350px" src="./assets/typing_code.png" alt="Side ele">
+  <img align="right" width="350px" src="./assets/temp/giphy.gif" alt="Side ele">
   <div align="left" width="350px">
     <ul>
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
@@ -48,15 +48,14 @@
 
 
 <div align="left">
- <a href="https://rushi-bashfolio.netlify.app" target="_blank">
-    <img width="48px"
-      src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?"
-      alt="terminal" /></a>
   <a href="mailto:rushiofficial1205@gmail.com">
     <img width="48px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/rushhiii" target="_blank" rel="noopener noreferrer">
     <img width="48px" src="./assets/linkedin.png" alt="LinkedIn" /></a>
- 
+  <a href="https://rushi-bashfolio.netlify.app" target="_blank">
+    <img width="48px"
+      src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?"
+      alt="terminal" /></a>
   <!-- <a href="https://www.instagram.com/the.tirth12" target="_blank">
     <img width="48px" src="./assets/insta_plain.png" alt="Instagram" />
   </a> -->
