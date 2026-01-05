@@ -32,8 +32,7 @@
 <div>
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
-  <!-- <img align="right" width=330 src="./assets/temp/hollow-knight-knight.gif" alt="Side ele" /> -->
-    <img align="right" width=280 src="./assets/temp/hollow-knight-reading-map-pixel-art.gif" alt="Side ele" />
+  <img align="right" width=330 src="./assets/temp/hollow-knight-knight.gif" alt="Side ele" />
   <!-- <div align="left" width="350px"> -->
   <div align="left">
     <ul>
