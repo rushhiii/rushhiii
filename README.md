@@ -98,9 +98,9 @@
 
 <div align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;"> 
 
-<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=e0fbfc&icon_color=e0fbfc&text_color=e0fbfc&ring_color=e0fbfc&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
-<img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=dark&hide_border=true&background=1a1a1a&ring=e0fbfc&fire=e0fbfc&currStreakLabel=e0fbfc&currStreakNum=e0fbfc&sideNums=e0fbfc&dates=e0fbfc&cache_seconds=86400" />
-<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&cache_seconds=86400&card_width=350" />
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api?username=rushhiii&count_private=true&show_icons=true&theme=default&bg_color=ffffff&title_color=1a1a1a&icon_color=424242&text_color=333333&ring_color=424242&rank_icon=github&include_all_commits=true&hide_border=true&border_radius=10&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-streak-stats-rushis-projects-a131b45c.vercel.app?user=rushhiii&theme=default&hide_border=true&background=ffffff&ring=424242&fire=1a1a1a&currStreakLabel=1a1a1a&currStreakNum=333333&sideNums=333333&dates=424242&cache_seconds=86400" />
+<img style="display:block;height:150px;" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/top-langs/?username=rushhiii&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&cache_seconds=86400&card_width=350" />
 
 </div>
 
@@ -110,9 +110,9 @@
 
 <div align="center" style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;">
 
-  <a href="https://github.com/rushhiii/Scriptable-IOSWidgets"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=dark&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
-  <a href="https://github.com/rushhiii/portfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&theme=dark&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
-  <a href="https://github.com/rushhiii/bashfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=bashfolio&theme=dark&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
+  <a href="https://github.com/rushhiii/Scriptable-IOSWidgets"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=Scriptable-IOSWidgets&theme=default&bg_color=ffffff&title_color=1a1a1a&icon_color=424242&text_color=333333&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
+  <a href="https://github.com/rushhiii/portfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=portfolio&theme=default&bg_color=ffffff&title_color=1a1a1a&icon_color=424242&text_color=333333&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
+  <a href="https://github.com/rushhiii/bashfolio"><img src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=rushhiii&repo=bashfolio&theme=default&bg_color=ffffff&title_color=1a1a1a&icon_color=424242&text_color=333333&hide_border=true&description_lines_count=7&cache_seconds=86400" /></a>
 
 </div>
 
@@ -163,8 +163,8 @@
 </h2>
 <div align="center" style="display:flex;gap:5px;">
 
-  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=1a1a1a&title_color=e0fbfc&text_color=e0fbfc&border_radius=10&cache_seconds=1800" alt="Contributors">
-  <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&backgroundColor=1a1a1a&quoteColor=e0fbfc&authorColor=e0fbfc&symbolColor=e0fbfc&border_radius=10" alt="Quotes">
+  <img style="display:block;height:240px;" src="https://github-contributor-stats.vercel.app/api?username=rushhiii&limit=5&hide_border=true&combine_all_yearly_contributions=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&border_radius=10&cache_seconds=1800" alt="Contributors">
+  <img style="display:block;height:240px;" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&backgroundColor=ffffff&quoteColor=1a1a1a&authorColor=424242&symbolColor=333333&border_radius=10" alt="Quotes">
 
 </div>
 
