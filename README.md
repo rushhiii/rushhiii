@@ -30,7 +30,9 @@
 </h2> 
 
 <div>
-  <img align="right" width="350px" src="./assets/temp/giphy.gif" alt="Side ele">
+  <div align="right" width="350px">
+    <img height="350px" src="./assets/temp/giphy.gif" alt="Side ele" />
+  </div>
   <div align="left" width="350px">
     <ul>
       <li>🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
