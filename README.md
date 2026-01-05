@@ -32,9 +32,9 @@
 <div>
   <!-- <div align="right" width="350px"> -->
   <!-- <div align="right" width="50%"> -->
-  <img align="right" width=330 src="./assets/temp/216593.gif" alt="Side ele" />
+  <img align="right" width=330 src="./assets/temp/old/giphy.gif" alt="Side ele" />
   <!-- <div align="left" width="350px"> -->
-  <div align="justify">
+  <div align="left">
     <ul>
       <li width="300px">🎓 2nd Year Computer Science Student at Toronto Metropolitan University</li>
       <li width="300px">🌱 I'm currently working on developing my programming skills.</li>
