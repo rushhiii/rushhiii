@@ -16,8 +16,8 @@
   About Me
 </h3> 
 
-<div style="display:flex;align-items:center;gap:3px;">
-  <a href="https://github.com/rushhiii" style="display:block;">
+<div style="display:flex;justify-content:center;gap:3px;">
+  <a href="https://github.com/rushhiii">
     <img width="160px" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true" alt="Profile Views" title="Total Profile Views"/></a>
   <a href="https://api.github-star-counter.workers.dev/user/rushhiii">
     <img width="120px" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
