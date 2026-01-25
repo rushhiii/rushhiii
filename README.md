@@ -16,12 +16,12 @@
 
 <div align="center" style="display:flex;justify-content:center;gap:3px;">
   <a style="display:block;" href="https://github.com/rushhiii">
-    <img width="160px" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true" alt="Profile Views" title="Total Profile Views"/></a>
+    <img width="160px" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true&refresh=1" alt="Profile Views" title="Total Profile Views"/></a>
   <a style="display:block;" href="https://api.github-star-counter.workers.dev/user/rushhiii">
-    <img width="120px" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
+    <img width="120px" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&refresh=1&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
   <a style="display:block;" href="https://github.com/rushhiii?tab=followers">
     <!-- <img width="130px" alt="Followers" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/rushhiii?color=e0fbfc&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /> -->
-      <img width="150px" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /></a>
+      <img width="150px" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc&cacheSeconds=3600&refresh=1" /></a>
 </div>
 
 
