@@ -211,6 +211,6 @@
 
 <div align="center">
   <!-- FOOTER_BANNER -->
-  <img width="100%" src="./assets/temp/Related image.gif" />
+  <img width="100%" src="./assets/banner/intensity_v1.png" />
   <!-- FOOTER_BANNER_END -->
 </div>
