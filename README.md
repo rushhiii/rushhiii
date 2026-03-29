@@ -19,7 +19,7 @@
     <img height="32" width="auto" src="https://komarev.com/ghpvc/?username=rushhiii&label=Profile%20Views&color=000000&labelColor=1a1a1a&style=for-the-badge&abbreviated=true&refresh=1" alt="Profile Views" title="Total Profile Views"/></a>
   <!-- <a style="display:block;" href="https://api.github-star-counter.workers.dev/user/rushhiii"> -->
   <a style="display:block;" href="https://github.com/rushhiii?tab=repositories&q=&type=&language=&sort=stargazers">
-    <img height="32" width="auto" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&refresh=0&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
+    <img height="32" width="auto" alt="Total Stars" title="Total Stars Earned" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=000000&labelColor=e0fbfc&logoColor=000000&label=Stars&style=for-the-badge&query=%24.stars&refresh=1&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
 <a style="display:block;" href="https://github.com/rushhiii?tab=repositories&q=&type=source&language=&sort=stargazers">
     <img height="31" width="auto" alt="Total Forkes" title="Total Repos Forked" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=000000&labelColor=e0fbfc&logoColor=000000&label=Forks&style=for-the-badge&query=%24.forks&refresh=0&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
   <a style="display:block;" href="https://github.com/rushhiii?tab=followers">
