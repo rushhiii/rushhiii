@@ -24,7 +24,7 @@
     <img height="31" width="auto" alt="Total Forkes" title="Total Repos Forked" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=000000&labelColor=e0fbfc&logoColor=000000&label=Forks&style=for-the-badge&query=%24.forks&refresh=0&url=https://api.github-star-counter.workers.dev/user/rushhiii" /></a>
   <a style="display:block;" href="https://github.com/rushhiii?tab=followers">
     <!-- <img width="130px" alt="Followers" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/rushhiii?color=e0fbfc&labelColor=1a1a1a&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc" /> -->
-      <img height="32" width="auto" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc&cacheSeconds=3600&refresh=0" /></a>
+      <img height="32" width="auto" src="https://custom-icon-badges.herokuapp.com/github/followers/rushhiii?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=e0fbfc&cacheSeconds=3600" /></a>
 </div>
 
 
